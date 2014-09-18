@@ -1,8 +1,7 @@
 Pitágoras
 =========
 
-Esse repositório é destinado ao meu projeto de TFG, mas você bem vindo a fazer
-sugestões. Aproveite :)
+Esse repositório é destinado ao meu projeto de TFG, mas você bem vindo a fazer sugestões. Aproveite :)
 
 ### Descrição
 
