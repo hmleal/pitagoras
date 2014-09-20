@@ -17,7 +17,7 @@ Sequência de passos necessários para instalação do projeto.
   $ pip install -r requirementst.txt
   ```
 
-### licença
+### Licença
 
 ```
 Copyright (C) 2013 - Henrique Leal
