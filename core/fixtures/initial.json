@@ -1,10 +1,8 @@
 [
 {
+ "pk": 1,
  "model": "core.pathway",
  "fields": {
-  "updated_on": "2014-11-12T23:36:38.907Z",
-  "created_on": "2014-11-12T23:36:38.907Z",
-  "acronym": "",
   "gmms": [
    2,
    3,
@@ -91,16 +89,16 @@
    84
   ],
   "name": "Apoptosis - Homo sapiens (human)",
-  "type": "apoptosis"
- },
- "pk": 1
+  "type": "apoptosis",
+  "acronym": "",
+  "updated_on": "2014-11-12T23:36:38.907Z",
+  "created_on": "2014-11-12T23:36:38.907Z"
+ }
 },
 {
+ "pk": 2,
  "model": "core.pathway",
  "fields": {
-  "updated_on": "2014-11-12T23:49:46.059Z",
-  "created_on": "2014-11-12T23:49:46.059Z",
-  "acronym": "",
   "gmms": [
    6,
    7,
@@ -155,16 +153,16 @@
    128
   ],
   "name": "Apoptotic Execution Phase",
-  "type": "apoptosis"
- },
- "pk": 2
+  "type": "apoptosis",
+  "acronym": "",
+  "updated_on": "2014-11-12T23:49:46.059Z",
+  "created_on": "2014-11-12T23:49:46.059Z"
+ }
 },
 {
+ "pk": 3,
  "model": "core.pathway",
  "fields": {
-  "updated_on": "2014-11-13T00:58:03.695Z",
-  "created_on": "2014-11-13T00:56:25.324Z",
-  "acronym": "",
   "gmms": [
    9,
    28,
@@ -180,16 +178,16 @@
    68
   ],
   "name": "Apoptotic signaling in response to dna damage",
-  "type": "apoptosis"
- },
- "pk": 3
+  "type": "apoptosis",
+  "acronym": "",
+  "updated_on": "2014-11-13T00:58:03.695Z",
+  "created_on": "2014-11-13T00:56:25.324Z"
+ }
 },
 {
+ "pk": 4,
  "model": "core.pathway",
  "fields": {
-  "updated_on": "2014-11-13T01:01:57.677Z",
-  "created_on": "2014-11-13T01:01:57.677Z",
-  "acronym": "",
   "gmms": [
    6,
    7,
@@ -245,16 +243,16 @@
    151
   ],
   "name": "Caspase Cascade in Apoptosis",
-  "type": "apoptosis"
- },
- "pk": 4
+  "type": "apoptosis",
+  "acronym": "",
+  "updated_on": "2014-11-13T01:01:57.677Z",
+  "created_on": "2014-11-13T01:01:57.677Z"
+ }
 },
 {
+ "pk": 5,
  "model": "core.pathway",
  "fields": {
-  "updated_on": "2014-11-13T01:06:54.722Z",
-  "created_on": "2014-11-13T01:06:54.722Z",
-  "acronym": "",
   "gmms": [
    16,
    22,
@@ -271,16 +269,16 @@
    82
   ],
   "name": "Death Receptor Signalling",
-  "type": "apoptosis"
- },
- "pk": 5
+  "type": "apoptosis",
+  "acronym": "",
+  "updated_on": "2014-11-13T01:06:54.722Z",
+  "created_on": "2014-11-13T01:06:54.722Z"
+ }
 },
 {
+ "pk": 6,
  "model": "core.pathway",
  "fields": {
-  "updated_on": "2014-11-13T01:09:54.047Z",
-  "created_on": "2014-11-13T01:09:54.047Z",
-  "acronym": "",
   "gmms": [
    16,
    22,
@@ -297,16 +295,16 @@
    82
   ],
   "name": "Extrinsic Pathway for Apoptosis",
-  "type": "apoptosis"
- },
- "pk": 6
+  "type": "apoptosis",
+  "acronym": "",
+  "updated_on": "2014-11-13T01:09:54.047Z",
+  "created_on": "2014-11-13T01:09:54.047Z"
+ }
 },
 {
+ "pk": 7,
  "model": "core.pathway",
  "fields": {
-  "updated_on": "2014-11-13T10:35:45.993Z",
-  "created_on": "2014-11-13T10:35:45.993Z",
-  "acronym": "",
   "gmms": [
    6,
    7,
@@ -323,16 +321,16 @@
    158
   ],
   "name": "Granzyme a Mediated Apoptosis Pathway",
-  "type": "apoptosis"
- },
- "pk": 7
+  "type": "apoptosis",
+  "acronym": "",
+  "updated_on": "2014-11-13T10:35:45.993Z",
+  "created_on": "2014-11-13T10:35:45.993Z"
+ }
 },
 {
+ "pk": 8,
  "model": "core.pathway",
  "fields": {
-  "updated_on": "2014-11-13T11:19:49.110Z",
-  "created_on": "2014-11-13T11:19:49.109Z",
-  "acronym": "",
   "gmms": [
    6,
    7,
@@ -356,16 +354,16 @@
    160
   ],
   "name": "Induction of apoptosis through dr3 and dr4/5 death receptors",
-  "type": "apoptosis"
- },
- "pk": 8
+  "type": "apoptosis",
+  "acronym": "",
+  "updated_on": "2014-11-13T11:19:49.110Z",
+  "created_on": "2014-11-13T11:19:49.109Z"
+ }
 },
 {
+ "pk": 9,
  "model": "core.pathway",
  "fields": {
-  "updated_on": "2014-11-13T11:47:49.657Z",
-  "created_on": "2014-11-13T11:47:49.657Z",
-  "acronym": "",
   "gmms": [
    9,
    12,
@@ -398,1718 +396,2363 @@
    172
   ],
   "name": "Intrinsic Pathway for Apoptosis",
-  "type": "apoptosis"
- },
- "pk": 9
+  "type": "apoptosis",
+  "acronym": "",
+  "updated_on": "2014-11-13T11:47:49.657Z",
+  "created_on": "2014-11-13T11:47:49.657Z"
+ }
 },
 {
+ "pk": 10,
+ "model": "core.pathway",
+ "fields": {
+  "gmms": [
+   66,
+   70,
+   113,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197,
+   198,
+   199,
+   200,
+   201,
+   202,
+   203,
+   204,
+   205,
+   206,
+   207,
+   208,
+   209,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   219,
+   220,
+   221,
+   222,
+   223,
+   224,
+   225,
+   226,
+   227,
+   228,
+   229
+  ],
+  "name": "Regulation of Apoptosis",
+  "type": "apoptosis",
+  "acronym": "",
+  "updated_on": "2014-11-13T11:51:06.308Z",
+  "created_on": "2014-11-13T11:51:06.308Z"
+ }
+},
+{
+ "pk": 2,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:53.034Z",
   "created_on": "2014-11-12T23:39:53.034Z",
-  "active": true,
   "approved_symbol": "AKT3"
- },
- "pk": 2
+ }
 },
 {
+ "pk": 3,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:53.358Z",
   "created_on": "2014-11-12T23:39:53.358Z",
-  "active": true,
   "approved_symbol": "IRAK3"
- },
- "pk": 3
+ }
 },
 {
+ "pk": 4,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:53.660Z",
   "created_on": "2014-11-12T23:39:53.660Z",
-  "active": true,
   "approved_symbol": "CHUK"
- },
- "pk": 4
+ }
 },
 {
+ "pk": 5,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:53.950Z",
   "created_on": "2014-11-12T23:39:53.950Z",
-  "active": true,
   "approved_symbol": "CSF2RB"
- },
- "pk": 5
+ }
 },
 {
+ "pk": 6,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:54.241Z",
   "created_on": "2014-11-12T23:39:54.240Z",
-  "active": true,
   "approved_symbol": "DFFA"
- },
- "pk": 6
+ }
 },
 {
+ "pk": 7,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:54.541Z",
   "created_on": "2014-11-12T23:39:54.541Z",
-  "active": true,
   "approved_symbol": "DFFB"
- },
- "pk": 7
+ }
 },
 {
+ "pk": 8,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:54.831Z",
   "created_on": "2014-11-12T23:39:54.831Z",
-  "active": true,
   "approved_symbol": "ENDOG"
- },
- "pk": 8
+ }
 },
 {
+ "pk": 9,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:55.112Z",
   "created_on": "2014-11-12T23:39:55.112Z",
-  "active": true,
   "approved_symbol": "AKT1"
- },
- "pk": 9
+ }
 },
 {
+ "pk": 10,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:55.415Z",
   "created_on": "2014-11-12T23:39:55.414Z",
-  "active": true,
   "approved_symbol": "AKT2"
- },
- "pk": 10
+ }
 },
 {
+ "pk": 11,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:55.727Z",
   "created_on": "2014-11-12T23:39:55.727Z",
-  "active": true,
   "approved_symbol": "PIK3R5"
- },
- "pk": 11
+ }
 },
 {
+ "pk": 12,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:56.051Z",
   "created_on": "2014-11-12T23:39:56.050Z",
-  "active": true,
   "approved_symbol": "APAF1"
- },
- "pk": 12
+ }
 },
 {
+ "pk": 13,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:56.386Z",
   "created_on": "2014-11-12T23:39:56.386Z",
-  "active": true,
   "approved_symbol": "BIRC2"
- },
- "pk": 13
+ }
 },
 {
+ "pk": 14,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:56.665Z",
   "created_on": "2014-11-12T23:39:56.665Z",
-  "active": true,
   "approved_symbol": "BIRC3"
- },
- "pk": 14
+ }
 },
 {
+ "pk": 15,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:57.011Z",
   "created_on": "2014-11-12T23:39:57.011Z",
-  "active": true,
   "approved_symbol": "XIAP"
- },
- "pk": 15
+ }
 },
 {
+ "pk": 16,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:57.369Z",
   "created_on": "2014-11-12T23:39:57.368Z",
-  "active": true,
   "approved_symbol": "FAS"
- },
- "pk": 16
+ }
 },
 {
+ "pk": 17,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:57.759Z",
   "created_on": "2014-11-12T23:39:57.759Z",
-  "active": true,
   "approved_symbol": "IKBKB"
- },
- "pk": 17
+ }
 },
 {
+ "pk": 18,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:58.117Z",
   "created_on": "2014-11-12T23:39:58.117Z",
-  "active": true,
   "approved_symbol": "IL1A"
- },
- "pk": 18
+ }
 },
 {
+ "pk": 19,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:58.418Z",
   "created_on": "2014-11-12T23:39:58.418Z",
-  "active": true,
   "approved_symbol": "IL1B"
- },
- "pk": 19
+ }
 },
 {
+ "pk": 20,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:58.742Z",
   "created_on": "2014-11-12T23:39:58.742Z",
-  "active": true,
   "approved_symbol": "IL1R1"
- },
- "pk": 20
+ }
 },
 {
+ "pk": 21,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:59.065Z",
   "created_on": "2014-11-12T23:39:59.065Z",
-  "active": true,
   "approved_symbol": "IL1RAP"
- },
- "pk": 21
+ }
 },
 {
+ "pk": 22,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:59.367Z",
   "created_on": "2014-11-12T23:39:59.367Z",
-  "active": true,
   "approved_symbol": "FASLG"
- },
- "pk": 22
+ }
 },
 {
+ "pk": 23,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:39:59.691Z",
   "created_on": "2014-11-12T23:39:59.691Z",
-  "active": true,
   "approved_symbol": "IL3"
- },
- "pk": 23
+ }
 },
 {
+ "pk": 24,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:00.016Z",
   "created_on": "2014-11-12T23:40:00.016Z",
-  "active": true,
   "approved_symbol": "IL3RA"
- },
- "pk": 24
+ }
 },
 {
+ "pk": 25,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:00.340Z",
   "created_on": "2014-11-12T23:40:00.340Z",
-  "active": true,
   "approved_symbol": "IRAK1"
- },
- "pk": 25
+ }
 },
 {
+ "pk": 26,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:00.642Z",
   "created_on": "2014-11-12T23:40:00.642Z",
-  "active": true,
   "approved_symbol": "IRAK2"
- },
- "pk": 26
+ }
 },
 {
+ "pk": 27,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:00.954Z",
   "created_on": "2014-11-12T23:40:00.954Z",
-  "active": true,
   "approved_symbol": "MYD88"
- },
- "pk": 27
+ }
 },
 {
+ "pk": 28,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:01.300Z",
   "created_on": "2014-11-12T23:40:01.300Z",
-  "active": true,
   "approved_symbol": "ATM"
- },
- "pk": 28
+ }
 },
 {
+ "pk": 29,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:01.612Z",
   "created_on": "2014-11-12T23:40:01.612Z",
-  "active": true,
   "approved_symbol": "NFKB1"
- },
- "pk": 29
+ }
 },
 {
+ "pk": 30,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:01.948Z",
   "created_on": "2014-11-12T23:40:01.948Z",
-  "active": true,
   "approved_symbol": "NFKB2"
- },
- "pk": 30
+ }
 },
 {
+ "pk": 31,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:02.251Z",
   "created_on": "2014-11-12T23:40:02.250Z",
-  "active": true,
   "approved_symbol": "NFKBIA"
- },
- "pk": 31
+ }
 },
 {
+ "pk": 32,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:02.574Z",
   "created_on": "2014-11-12T23:40:02.574Z",
-  "active": true,
   "approved_symbol": "NGF"
- },
- "pk": 32
+ }
 },
 {
+ "pk": 33,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:02.920Z",
   "created_on": "2014-11-12T23:40:02.920Z",
-  "active": true,
   "approved_symbol": "NTRK1"
- },
- "pk": 33
+ }
 },
 {
+ "pk": 34,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:03.299Z",
   "created_on": "2014-11-12T23:40:03.299Z",
-  "active": true,
   "approved_symbol": "IRAK4"
- },
- "pk": 34
+ }
 },
 {
+ "pk": 35,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:03.668Z",
   "created_on": "2014-11-12T23:40:03.668Z",
-  "active": true,
   "approved_symbol": "PIK3CA"
- },
- "pk": 35
+ }
 },
 {
+ "pk": 36,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:04.025Z",
   "created_on": "2014-11-12T23:40:04.024Z",
-  "active": true,
   "approved_symbol": "PIK3CB"
- },
- "pk": 36
+ }
 },
 {
+ "pk": 37,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:04.381Z",
   "created_on": "2014-11-12T23:40:04.381Z",
-  "active": true,
   "approved_symbol": "PIK3CD"
- },
- "pk": 37
+ }
 },
 {
+ "pk": 38,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:04.719Z",
   "created_on": "2014-11-12T23:40:04.718Z",
-  "active": true,
   "approved_symbol": "PIK3CG"
- },
- "pk": 38
+ }
 },
 {
+ "pk": 39,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:05.042Z",
   "created_on": "2014-11-12T23:40:05.041Z",
-  "active": true,
   "approved_symbol": "PIK3R1"
- },
- "pk": 39
+ }
 },
 {
+ "pk": 40,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:05.366Z",
   "created_on": "2014-11-12T23:40:05.366Z",
-  "active": true,
   "approved_symbol": "PIK3R2"
- },
- "pk": 40
+ }
 },
 {
+ "pk": 41,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:05.667Z",
   "created_on": "2014-11-12T23:40:05.667Z",
-  "active": true,
   "approved_symbol": "CYCS"
- },
- "pk": 41
+ }
 },
 {
+ "pk": 42,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:06.002Z",
   "created_on": "2014-11-12T23:40:06.002Z",
-  "active": true,
   "approved_symbol": "PPP3CA"
- },
- "pk": 42
+ }
 },
 {
+ "pk": 43,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:06.337Z",
   "created_on": "2014-11-12T23:40:06.337Z",
-  "active": true,
   "approved_symbol": "PPP3CB"
- },
- "pk": 43
+ }
 },
 {
+ "pk": 44,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:06.639Z",
   "created_on": "2014-11-12T23:40:06.639Z",
-  "active": true,
   "approved_symbol": "PPP3CC"
- },
- "pk": 44
+ }
 },
 {
+ "pk": 45,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:06.942Z",
   "created_on": "2014-11-12T23:40:06.942Z",
-  "active": true,
   "approved_symbol": "PPP3R1"
- },
- "pk": 45
+ }
 },
 {
+ "pk": 46,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:07.276Z",
   "created_on": "2014-11-12T23:40:07.276Z",
-  "active": true,
   "approved_symbol": "PPP3R2"
- },
- "pk": 46
+ }
 },
 {
+ "pk": 47,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:07.601Z",
   "created_on": "2014-11-12T23:40:07.600Z",
-  "active": true,
   "approved_symbol": "PRKACA"
- },
- "pk": 47
+ }
 },
 {
+ "pk": 48,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:07.913Z",
   "created_on": "2014-11-12T23:40:07.913Z",
-  "active": true,
   "approved_symbol": "PRKACB"
- },
- "pk": 48
+ }
 },
 {
+ "pk": 49,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:08.237Z",
   "created_on": "2014-11-12T23:40:08.237Z",
-  "active": true,
   "approved_symbol": "PRKACG"
- },
- "pk": 49
+ }
 },
 {
+ "pk": 50,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:08.539Z",
   "created_on": "2014-11-12T23:40:08.539Z",
-  "active": true,
   "approved_symbol": "PRKAR1A"
- },
- "pk": 50
+ }
 },
 {
+ "pk": 51,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:08.896Z",
   "created_on": "2014-11-12T23:40:08.896Z",
-  "active": true,
   "approved_symbol": "PRKAR1B"
- },
- "pk": 51
+ }
 },
 {
+ "pk": 52,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:09.289Z",
   "created_on": "2014-11-12T23:40:09.289Z",
-  "active": true,
   "approved_symbol": "PRKAR2A"
- },
- "pk": 52
+ }
 },
 {
+ "pk": 53,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:09.644Z",
   "created_on": "2014-11-12T23:40:09.644Z",
-  "active": true,
   "approved_symbol": "PRKAR2B"
- },
- "pk": 53
+ }
 },
 {
+ "pk": 54,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:10.013Z",
   "created_on": "2014-11-12T23:40:10.013Z",
-  "active": true,
   "approved_symbol": "BAD"
- },
- "pk": 54
+ }
 },
 {
+ "pk": 55,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:10.459Z",
   "created_on": "2014-11-12T23:40:10.459Z",
-  "active": true,
   "approved_symbol": "BAX"
- },
- "pk": 55
+ }
 },
 {
+ "pk": 56,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:10.827Z",
   "created_on": "2014-11-12T23:40:10.827Z",
-  "active": true,
   "approved_symbol": "BCL2"
- },
- "pk": 56
+ }
 },
 {
+ "pk": 57,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:11.184Z",
   "created_on": "2014-11-12T23:40:11.184Z",
-  "active": true,
   "approved_symbol": "RELA"
- },
- "pk": 57
+ }
 },
 {
+ "pk": 58,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:11.530Z",
   "created_on": "2014-11-12T23:40:11.530Z",
-  "active": true,
   "approved_symbol": "BCL2L1"
- },
- "pk": 58
+ }
 },
 {
+ "pk": 59,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:11.833Z",
   "created_on": "2014-11-12T23:40:11.833Z",
-  "active": true,
   "approved_symbol": "BID"
- },
- "pk": 59
+ }
 },
 {
+ "pk": 60,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:12.146Z",
   "created_on": "2014-11-12T23:40:12.145Z",
-  "active": true,
   "approved_symbol": "TNF"
- },
- "pk": 60
+ }
 },
 {
+ "pk": 61,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:12.459Z",
   "created_on": "2014-11-12T23:40:12.459Z",
-  "active": true,
   "approved_symbol": "TNFRSF1A"
- },
- "pk": 61
+ }
 },
 {
+ "pk": 62,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:12.760Z",
   "created_on": "2014-11-12T23:40:12.760Z",
-  "active": true,
   "approved_symbol": "TP53"
- },
- "pk": 62
+ }
 },
 {
+ "pk": 63,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:13.139Z",
   "created_on": "2014-11-12T23:40:13.139Z",
-  "active": true,
   "approved_symbol": "TRAF2"
- },
- "pk": 63
+ }
 },
 {
+ "pk": 64,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:13.475Z",
   "created_on": "2014-11-12T23:40:13.475Z",
-  "active": true,
   "approved_symbol": "CAPN1"
- },
- "pk": 64
+ }
 },
 {
+ "pk": 65,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:13.821Z",
   "created_on": "2014-11-12T23:40:13.820Z",
-  "active": true,
   "approved_symbol": "CAPN2"
- },
- "pk": 65
+ }
 },
 {
+ "pk": 66,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:14.290Z",
   "created_on": "2014-11-12T23:40:14.290Z",
-  "active": true,
   "approved_symbol": "CASP3"
- },
- "pk": 66
+ }
 },
 {
+ "pk": 67,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:14.725Z",
   "created_on": "2014-11-12T23:40:14.725Z",
-  "active": true,
   "approved_symbol": "CASP6"
- },
- "pk": 67
+ }
 },
 {
+ "pk": 68,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:15.049Z",
   "created_on": "2014-11-12T23:40:15.049Z",
-  "active": true,
   "approved_symbol": "CASP7"
- },
- "pk": 68
+ }
 },
 {
+ "pk": 69,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:15.362Z",
   "created_on": "2014-11-12T23:40:15.362Z",
-  "active": true,
   "approved_symbol": "CASP8"
- },
- "pk": 69
+ }
 },
 {
+ "pk": 70,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:15.675Z",
   "created_on": "2014-11-12T23:40:15.675Z",
-  "active": true,
   "approved_symbol": "CASP9"
- },
- "pk": 70
+ }
 },
 {
+ "pk": 71,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:15.975Z",
   "created_on": "2014-11-12T23:40:15.975Z",
-  "active": true,
   "approved_symbol": "CASP10"
- },
- "pk": 71
+ }
 },
 {
+ "pk": 72,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:16.422Z",
   "created_on": "2014-11-12T23:40:16.422Z",
-  "active": true,
   "approved_symbol": "PIK3R3"
- },
- "pk": 72
+ }
 },
 {
+ "pk": 73,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:16.846Z",
   "created_on": "2014-11-12T23:40:16.846Z",
-  "active": true,
   "approved_symbol": "IKBKG"
- },
- "pk": 73
+ }
 },
 {
+ "pk": 74,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:17.226Z",
   "created_on": "2014-11-12T23:40:17.226Z",
-  "active": true,
   "approved_symbol": "TRADD"
- },
- "pk": 74
+ }
 },
 {
+ "pk": 75,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:17.528Z",
   "created_on": "2014-11-12T23:40:17.528Z",
-  "active": true,
   "approved_symbol": "RIPK1"
- },
- "pk": 75
+ }
 },
 {
+ "pk": 76,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:17.862Z",
   "created_on": "2014-11-12T23:40:17.862Z",
-  "active": true,
   "approved_symbol": "TNFSF10"
- },
- "pk": 76
+ }
 },
 {
+ "pk": 77,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:18.153Z",
   "created_on": "2014-11-12T23:40:18.153Z",
-  "active": true,
   "approved_symbol": "FADD"
- },
- "pk": 77
+ }
 },
 {
+ "pk": 78,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:18.454Z",
   "created_on": "2014-11-12T23:40:18.453Z",
-  "active": true,
   "approved_symbol": "TNFRSF10D"
- },
- "pk": 78
+ }
 },
 {
+ "pk": 79,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:18.845Z",
   "created_on": "2014-11-12T23:40:18.845Z",
-  "active": true,
   "approved_symbol": "TNFRSF10C"
- },
- "pk": 79
+ }
 },
 {
+ "pk": 80,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:19.259Z",
   "created_on": "2014-11-12T23:40:19.259Z",
-  "active": true,
   "approved_symbol": "TNFRSF10B"
- },
- "pk": 80
+ }
 },
 {
+ "pk": 81,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:19.682Z",
   "created_on": "2014-11-12T23:40:19.682Z",
-  "active": true,
   "approved_symbol": "TNFRSF10A"
- },
- "pk": 81
+ }
 },
 {
+ "pk": 82,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:19.983Z",
   "created_on": "2014-11-12T23:40:19.983Z",
-  "active": true,
   "approved_symbol": "CFLAR"
- },
- "pk": 82
+ }
 },
 {
+ "pk": 83,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:20.275Z",
   "created_on": "2014-11-12T23:40:20.275Z",
-  "active": true,
   "approved_symbol": "MAP3K14"
- },
- "pk": 83
+ }
 },
 {
+ "pk": 84,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:40:20.576Z",
   "created_on": "2014-11-12T23:40:20.576Z",
-  "active": true,
   "approved_symbol": "AIFM1"
- },
- "pk": 84
+ }
 },
 {
+ "pk": 85,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:29.133Z",
   "created_on": "2014-11-12T23:51:29.133Z",
-  "active": true,
   "approved_symbol": "DNM1L"
- },
- "pk": 85
+ }
 },
 {
+ "pk": 86,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:29.561Z",
   "created_on": "2014-11-12T23:51:29.561Z",
-  "active": true,
   "approved_symbol": "BCAP31"
- },
- "pk": 86
+ }
 },
 {
+ "pk": 87,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:29.831Z",
   "created_on": "2014-11-12T23:51:29.831Z",
-  "active": true,
   "approved_symbol": "ADD1"
- },
- "pk": 87
+ }
 },
 {
+ "pk": 88,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:30.099Z",
   "created_on": "2014-11-12T23:51:30.099Z",
-  "active": true,
   "approved_symbol": "CTNNB1"
- },
- "pk": 88
+ }
 },
 {
+ "pk": 89,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:30.669Z",
   "created_on": "2014-11-12T23:51:30.669Z",
-  "active": true,
   "approved_symbol": "DSG1"
- },
- "pk": 89
+ }
 },
 {
+ "pk": 90,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:31.004Z",
   "created_on": "2014-11-12T23:51:31.003Z",
-  "active": true,
   "approved_symbol": "DSG2"
- },
- "pk": 90
+ }
 },
 {
+ "pk": 91,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:31.283Z",
   "created_on": "2014-11-12T23:51:31.283Z",
-  "active": true,
   "approved_symbol": "DSG3"
- },
- "pk": 91
+ }
 },
 {
+ "pk": 92,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:31.607Z",
   "created_on": "2014-11-12T23:51:31.607Z",
-  "active": true,
   "approved_symbol": "DSP"
- },
- "pk": 92
+ }
 },
 {
+ "pk": 93,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:31.888Z",
   "created_on": "2014-11-12T23:51:31.888Z",
-  "active": true,
   "approved_symbol": "ACIN1"
- },
- "pk": 93
+ }
 },
 {
+ "pk": 94,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:32.155Z",
   "created_on": "2014-11-12T23:51:32.155Z",
-  "active": true,
   "approved_symbol": "FNTA"
- },
- "pk": 94
+ }
 },
 {
+ "pk": 95,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:32.435Z",
   "created_on": "2014-11-12T23:51:32.435Z",
-  "active": true,
   "approved_symbol": "GAS2"
- },
- "pk": 95
+ }
 },
 {
+ "pk": 96,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:32.759Z",
   "created_on": "2014-11-12T23:51:32.759Z",
-  "active": true,
   "approved_symbol": "DBNL"
- },
- "pk": 96
+ }
 },
 {
+ "pk": 97,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:33.082Z",
   "created_on": "2014-11-12T23:51:33.082Z",
-  "active": true,
   "approved_symbol": "GSN"
- },
- "pk": 97
+ }
 },
 {
+ "pk": 98,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:33.362Z",
   "created_on": "2014-11-12T23:51:33.362Z",
-  "active": true,
   "approved_symbol": "H1F0"
- },
- "pk": 98
+ }
 },
 {
+ "pk": 99,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:33.719Z",
   "created_on": "2014-11-12T23:51:33.719Z",
-  "active": true,
   "approved_symbol": "HIST1H1C"
- },
- "pk": 99
+ }
 },
 {
+ "pk": 100,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:34.111Z",
   "created_on": "2014-11-12T23:51:34.111Z",
-  "active": true,
   "approved_symbol": "HIST1H1D"
- },
- "pk": 100
+ }
 },
 {
+ "pk": 101,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:34.456Z",
   "created_on": "2014-11-12T23:51:34.456Z",
-  "active": true,
   "approved_symbol": "HIST1H1E"
- },
- "pk": 101
+ }
 },
 {
+ "pk": 102,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:34.769Z",
   "created_on": "2014-11-12T23:51:34.769Z",
-  "active": true,
   "approved_symbol": "HIST1H1B"
- },
- "pk": 102
+ }
 },
 {
+ "pk": 103,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:35.149Z",
   "created_on": "2014-11-12T23:51:35.149Z",
-  "active": true,
   "approved_symbol": "HIST1H1A"
- },
- "pk": 103
+ }
 },
 {
+ "pk": 104,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:35.450Z",
   "created_on": "2014-11-12T23:51:35.450Z",
-  "active": true,
   "approved_symbol": "HMGB1"
- },
- "pk": 104
+ }
 },
 {
+ "pk": 105,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:35.729Z",
   "created_on": "2014-11-12T23:51:35.729Z",
-  "active": true,
   "approved_symbol": "HMGB2"
- },
- "pk": 105
+ }
 },
 {
+ "pk": 106,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:36.042Z",
   "created_on": "2014-11-12T23:51:36.042Z",
-  "active": true,
   "approved_symbol": "APC"
- },
- "pk": 106
+ }
 },
 {
+ "pk": 107,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:36.457Z",
   "created_on": "2014-11-12T23:51:36.457Z",
-  "active": true,
   "approved_symbol": "KPNA1"
- },
- "pk": 107
+ }
 },
 {
+ "pk": 108,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:36.770Z",
   "created_on": "2014-11-12T23:51:36.769Z",
-  "active": true,
   "approved_symbol": "KPNB1"
- },
- "pk": 108
+ }
 },
 {
+ "pk": 109,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:37.049Z",
   "created_on": "2014-11-12T23:51:37.049Z",
-  "active": true,
   "approved_symbol": "LMNA"
- },
- "pk": 109
+ }
 },
 {
+ "pk": 110,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:37.351Z",
   "created_on": "2014-11-12T23:51:37.350Z",
-  "active": true,
   "approved_symbol": "LMNB1"
- },
- "pk": 110
+ }
 },
 {
+ "pk": 111,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:37.719Z",
   "created_on": "2014-11-12T23:51:37.719Z",
-  "active": true,
   "approved_symbol": "MAPT"
- },
- "pk": 111
+ }
 },
 {
+ "pk": 112,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:38.054Z",
   "created_on": "2014-11-12T23:51:38.054Z",
-  "active": true,
   "approved_symbol": "OCLN"
- },
- "pk": 112
+ }
 },
 {
+ "pk": 113,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:38.489Z",
   "created_on": "2014-11-12T23:51:38.488Z",
-  "active": true,
   "approved_symbol": "PAK2"
- },
- "pk": 113
+ }
 },
 {
+ "pk": 114,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:38.814Z",
   "created_on": "2014-11-12T23:51:38.813Z",
-  "active": true,
   "approved_symbol": "PKP1"
- },
- "pk": 114
+ }
 },
 {
+ "pk": 115,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:39.104Z",
   "created_on": "2014-11-12T23:51:39.104Z",
-  "active": true,
   "approved_symbol": "PLEC1"
- },
- "pk": 115
+ }
 },
 {
+ "pk": 116,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:39.539Z",
   "created_on": "2014-11-12T23:51:39.539Z",
-  "active": true,
   "approved_symbol": "PRKCD"
- },
- "pk": 116
+ }
 },
 {
+ "pk": 117,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:39.896Z",
   "created_on": "2014-11-12T23:51:39.896Z",
-  "active": true,
   "approved_symbol": "PRKCQ"
- },
- "pk": 117
+ }
 },
 {
+ "pk": 118,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:40.231Z",
   "created_on": "2014-11-12T23:51:40.230Z",
-  "active": true,
   "approved_symbol": "PTK2"
- },
- "pk": 118
+ }
 },
 {
+ "pk": 119,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:40.588Z",
   "created_on": "2014-11-12T23:51:40.588Z",
-  "active": true,
   "approved_symbol": "ROCK1"
- },
- "pk": 119
+ }
 },
 {
+ "pk": 120,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:40.901Z",
   "created_on": "2014-11-12T23:51:40.901Z",
-  "active": true,
   "approved_symbol": "SATB1"
- },
- "pk": 120
+ }
 },
 {
+ "pk": 121,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:41.204Z",
   "created_on": "2014-11-12T23:51:41.203Z",
-  "active": true,
   "approved_symbol": "CLSPN"
- },
- "pk": 121
+ }
 },
 {
+ "pk": 122,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:41.538Z",
   "created_on": "2014-11-12T23:51:41.538Z",
-  "active": true,
   "approved_symbol": "BMX"
- },
- "pk": 122
+ }
 },
 {
+ "pk": 123,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:41.862Z",
   "created_on": "2014-11-12T23:51:41.862Z",
-  "active": true,
   "approved_symbol": "SPTAN1"
- },
- "pk": 123
+ }
 },
 {
+ "pk": 124,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:42.175Z",
   "created_on": "2014-11-12T23:51:42.175Z",
-  "active": true,
   "approved_symbol": "TJP1"
- },
- "pk": 124
+ }
 },
 {
+ "pk": 125,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:42.531Z",
   "created_on": "2014-11-12T23:51:42.531Z",
-  "active": true,
   "approved_symbol": "VIM"
- },
- "pk": 125
+ }
 },
 {
+ "pk": 126,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:43.860Z",
   "created_on": "2014-11-12T23:51:43.860Z",
-  "active": true,
   "approved_symbol": "STK24"
- },
- "pk": 126
+ }
 },
 {
+ "pk": 127,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:44.318Z",
   "created_on": "2014-11-12T23:51:44.318Z",
-  "active": true,
   "approved_symbol": "TJP2"
- },
- "pk": 127
+ }
 },
 {
+ "pk": 128,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-12T23:51:44.675Z",
   "created_on": "2014-11-12T23:51:44.675Z",
-  "active": true,
   "approved_symbol": "CDH1"
- },
- "pk": 128
+ }
 },
 {
+ "pk": 129,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:02:57.321Z",
   "created_on": "2014-11-13T01:02:57.320Z",
-  "active": true,
   "approved_symbol": "CFL2"
- },
- "pk": 129
+ }
 },
 {
+ "pk": 130,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:02:57.788Z",
   "created_on": "2014-11-13T01:02:57.788Z",
-  "active": true,
   "approved_symbol": "PARP1"
- },
- "pk": 130
+ }
 },
 {
+ "pk": 131,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:02:58.826Z",
   "created_on": "2014-11-13T01:02:58.826Z",
-  "active": true,
   "approved_symbol": "GZMB"
- },
- "pk": 131
+ }
 },
 {
+ "pk": 132,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:02:59.841Z",
   "created_on": "2014-11-13T01:02:59.841Z",
-  "active": true,
   "approved_symbol": "APP"
- },
- "pk": 132
+ }
 },
 {
+ "pk": 133,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:00.156Z",
   "created_on": "2014-11-13T01:03:00.155Z",
-  "active": true,
   "approved_symbol": "KRT18"
- },
- "pk": 133
+ }
 },
 {
+ "pk": 134,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:00.501Z",
   "created_on": "2014-11-13T01:03:00.501Z",
-  "active": true,
   "approved_symbol": "ARHGDIB"
- },
- "pk": 134
+ }
 },
 {
+ "pk": 135,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:00.859Z",
   "created_on": "2014-11-13T01:03:00.858Z",
-  "active": true,
   "approved_symbol": "LIMK1"
- },
- "pk": 135
+ }
 },
 {
+ "pk": 136,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:01.484Z",
   "created_on": "2014-11-13T01:03:01.484Z",
-  "active": true,
   "approved_symbol": "MAP3K1"
- },
- "pk": 136
+ }
 },
 {
+ "pk": 137,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:01.841Z",
   "created_on": "2014-11-13T01:03:01.840Z",
-  "active": true,
   "approved_symbol": "NUMA1"
- },
- "pk": 137
+ }
 },
 {
+ "pk": 138,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:02.388Z",
   "created_on": "2014-11-13T01:03:02.388Z",
-  "active": true,
   "approved_symbol": "LRDD"
- },
- "pk": 138
+ }
 },
 {
+ "pk": 139,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:02.813Z",
   "created_on": "2014-11-13T01:03:02.813Z",
-  "active": true,
   "approved_symbol": "PRF1"
- },
- "pk": 139
+ }
 },
 {
+ "pk": 140,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:03.159Z",
   "created_on": "2014-11-13T01:03:03.158Z",
-  "active": true,
   "approved_symbol": "DIABLO"
- },
- "pk": 140
+ }
 },
 {
+ "pk": 141,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:03.650Z",
   "created_on": "2014-11-13T01:03:03.650Z",
-  "active": true,
   "approved_symbol": "ACTA1"
- },
- "pk": 141
+ }
 },
 {
+ "pk": 142,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:04.755Z",
   "created_on": "2014-11-13T01:03:04.755Z",
-  "active": true,
   "approved_symbol": "SREBF1"
- },
- "pk": 142
+ }
 },
 {
+ "pk": 143,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:05.092Z",
   "created_on": "2014-11-13T01:03:05.091Z",
-  "active": true,
   "approved_symbol": "TFAP2A"
- },
- "pk": 143
+ }
 },
 {
+ "pk": 144,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:05.784Z",
   "created_on": "2014-11-13T01:03:05.784Z",
-  "active": true,
   "approved_symbol": "TOP1"
- },
- "pk": 144
+ }
 },
 {
+ "pk": 145,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:06.398Z",
   "created_on": "2014-11-13T01:03:06.398Z",
-  "active": true,
   "approved_symbol": "CASP1"
- },
- "pk": 145
+ }
 },
 {
+ "pk": 146,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:06.710Z",
   "created_on": "2014-11-13T01:03:06.710Z",
-  "active": true,
   "approved_symbol": "CASP2"
- },
- "pk": 146
+ }
 },
 {
+ "pk": 147,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:07.179Z",
   "created_on": "2014-11-13T01:03:07.179Z",
-  "active": true,
   "approved_symbol": "CASP4"
- },
- "pk": 147
+ }
 },
 {
+ "pk": 148,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:08.497Z",
   "created_on": "2014-11-13T01:03:08.497Z",
-  "active": true,
   "approved_symbol": "LMNB2"
- },
- "pk": 148
+ }
 },
 {
+ "pk": 149,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:08.877Z",
   "created_on": "2014-11-13T01:03:08.876Z",
-  "active": true,
   "approved_symbol": "MADD"
- },
- "pk": 149
+ }
 },
 {
+ "pk": 150,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:09.624Z",
   "created_on": "2014-11-13T01:03:09.623Z",
-  "active": true,
   "approved_symbol": "CRADD"
- },
- "pk": 150
+ }
 },
 {
+ "pk": 151,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T01:03:09.959Z",
   "created_on": "2014-11-13T01:03:09.959Z",
-  "active": true,
   "approved_symbol": "SLK"
- },
- "pk": 151
+ }
 },
 {
+ "pk": 152,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T10:36:15.340Z",
   "created_on": "2014-11-13T10:36:15.340Z",
-  "active": true,
   "approved_symbol": "CREBBP"
- },
- "pk": 152
+ }
 },
 {
+ "pk": 153,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T10:36:16.209Z",
   "created_on": "2014-11-13T10:36:16.208Z",
-  "active": true,
   "approved_symbol": "GZMA"
- },
- "pk": 153
+ }
 },
 {
+ "pk": 154,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T10:36:16.956Z",
   "created_on": "2014-11-13T10:36:16.956Z",
-  "active": true,
   "approved_symbol": "APEX1"
- },
- "pk": 154
+ }
 },
 {
+ "pk": 155,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T10:36:17.313Z",
   "created_on": "2014-11-13T10:36:17.313Z",
-  "active": true,
   "approved_symbol": "NME1"
- },
- "pk": 155
+ }
 },
 {
+ "pk": 156,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T10:36:17.793Z",
   "created_on": "2014-11-13T10:36:17.793Z",
-  "active": true,
   "approved_symbol": "OPN1LW"
- },
- "pk": 156
+ }
 },
 {
+ "pk": 157,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T10:36:18.118Z",
   "created_on": "2014-11-13T10:36:18.117Z",
-  "active": true,
   "approved_symbol": "SET"
- },
- "pk": 157
+ }
 },
 {
+ "pk": 158,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T10:36:18.453Z",
   "created_on": "2014-11-13T10:36:18.453Z",
-  "active": true,
   "approved_symbol": "ANP32A"
- },
- "pk": 158
+ }
 },
 {
+ "pk": 159,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:20:02.549Z",
   "created_on": "2014-11-13T11:20:02.548Z",
-  "active": true,
   "approved_symbol": "TNFRSF25"
- },
- "pk": 159
+ }
 },
 {
+ "pk": 160,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:20:03.028Z",
   "created_on": "2014-11-13T11:20:03.028Z",
-  "active": true,
   "approved_symbol": "TNFSF12"
- },
- "pk": 160
+ }
 },
 {
+ "pk": 161,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:48:01.404Z",
   "created_on": "2014-11-13T11:48:01.404Z",
-  "active": true,
   "approved_symbol": "BCL2L11"
- },
- "pk": 161
+ }
 },
 {
+ "pk": 162,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:48:02.255Z",
   "created_on": "2014-11-13T11:48:02.255Z",
-  "active": true,
   "approved_symbol": "DYNLL2"
- },
- "pk": 162
+ }
 },
 {
+ "pk": 163,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:48:02.601Z",
   "created_on": "2014-11-13T11:48:02.601Z",
-  "active": true,
   "approved_symbol": "E2F1"
- },
- "pk": 163
+ }
 },
 {
+ "pk": 164,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:48:03.092Z",
   "created_on": "2014-11-13T11:48:03.092Z",
-  "active": true,
   "approved_symbol": "BBC3"
- },
- "pk": 164
+ }
 },
 {
+ "pk": 165,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:48:03.931Z",
   "created_on": "2014-11-13T11:48:03.931Z",
-  "active": true,
   "approved_symbol": "NMT1"
- },
- "pk": 165
+ }
 },
 {
+ "pk": 166,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:48:04.243Z",
   "created_on": "2014-11-13T11:48:04.243Z",
-  "active": true,
   "approved_symbol": "PMAIP1"
- },
- "pk": 166
+ }
 },
 {
+ "pk": 167,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:48:05.125Z",
   "created_on": "2014-11-13T11:48:05.125Z",
-  "active": true,
   "approved_symbol": "MAPK8"
- },
- "pk": 167
+ }
 },
 {
+ "pk": 168,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:48:05.794Z",
   "created_on": "2014-11-13T11:48:05.794Z",
-  "active": true,
   "approved_symbol": "BAK1"
- },
- "pk": 168
+ }
 },
 {
+ "pk": 169,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:48:06.878Z",
   "created_on": "2014-11-13T11:48:06.878Z",
-  "active": true,
   "approved_symbol": "TFDP1"
- },
- "pk": 169
+ }
 },
 {
+ "pk": 170,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:48:07.246Z",
   "created_on": "2014-11-13T11:48:07.246Z",
-  "active": true,
   "approved_symbol": "YWHAB"
- },
- "pk": 170
+ }
 },
 {
+ "pk": 171,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:48:08.317Z",
   "created_on": "2014-11-13T11:48:08.316Z",
-  "active": true,
   "approved_symbol": "DYNLL1"
- },
- "pk": 171
+ }
 },
 {
+ "pk": 172,
  "model": "core.gmm",
  "fields": {
+  "active": true,
   "updated_on": "2014-11-13T11:48:08.608Z",
   "created_on": "2014-11-13T11:48:08.607Z",
-  "active": true,
   "approved_symbol": "BMF"
- },
- "pk": 172
+ }
+},
+{
+ "pk": 173,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:13.222Z",
+  "created_on": "2014-11-13T11:51:13.222Z",
+  "approved_symbol": "PSME3"
+ }
+},
+{
+ "pk": 174,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:13.665Z",
+  "created_on": "2014-11-13T11:51:13.664Z",
+  "approved_symbol": "PSMD14"
+ }
+},
+{
+ "pk": 175,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:13.999Z",
+  "created_on": "2014-11-13T11:51:13.999Z",
+  "approved_symbol": "PSMB11"
+ }
+},
+{
+ "pk": 176,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:14.368Z",
+  "created_on": "2014-11-13T11:51:14.367Z",
+  "approved_symbol": "PSMA8"
+ }
+},
+{
+ "pk": 177,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:14.658Z",
+  "created_on": "2014-11-13T11:51:14.658Z",
+  "approved_symbol": "DAPK1"
+ }
+},
+{
+ "pk": 178,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:14.950Z",
+  "created_on": "2014-11-13T11:51:14.950Z",
+  "approved_symbol": "DAPK3"
+ }
+},
+{
+ "pk": 179,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:15.262Z",
+  "created_on": "2014-11-13T11:51:15.262Z",
+  "approved_symbol": "DCC"
+ }
+},
+{
+ "pk": 180,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:15.620Z",
+  "created_on": "2014-11-13T11:51:15.619Z",
+  "approved_symbol": "UNC5B"
+ }
+},
+{
+ "pk": 181,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:15.976Z",
+  "created_on": "2014-11-13T11:51:15.976Z",
+  "approved_symbol": "PSME4"
+ }
+},
+{
+ "pk": 182,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:16.334Z",
+  "created_on": "2014-11-13T11:51:16.333Z",
+  "approved_symbol": "DAPK2"
+ }
+},
+{
+ "pk": 183,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:16.679Z",
+  "created_on": "2014-11-13T11:51:16.679Z",
+  "approved_symbol": "APPL1"
+ }
+},
+{
+ "pk": 184,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:17.126Z",
+  "created_on": "2014-11-13T11:51:17.126Z",
+  "approved_symbol": "PSMA1"
+ }
+},
+{
+ "pk": 185,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:17.429Z",
+  "created_on": "2014-11-13T11:51:17.429Z",
+  "approved_symbol": "PSMA2"
+ }
+},
+{
+ "pk": 186,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:17.730Z",
+  "created_on": "2014-11-13T11:51:17.730Z",
+  "approved_symbol": "PSMA3"
+ }
+},
+{
+ "pk": 187,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:18.209Z",
+  "created_on": "2014-11-13T11:51:18.209Z",
+  "approved_symbol": "PSMA4"
+ }
+},
+{
+ "pk": 188,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:18.566Z",
+  "created_on": "2014-11-13T11:51:18.566Z",
+  "approved_symbol": "PSMA5"
+ }
+},
+{
+ "pk": 189,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:18.957Z",
+  "created_on": "2014-11-13T11:51:18.957Z",
+  "approved_symbol": "PSMA6"
+ }
+},
+{
+ "pk": 190,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:19.358Z",
+  "created_on": "2014-11-13T11:51:19.358Z",
+  "approved_symbol": "PSMA7"
+ }
+},
+{
+ "pk": 191,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:19.727Z",
+  "created_on": "2014-11-13T11:51:19.727Z",
+  "approved_symbol": "PSMB1"
+ }
+},
+{
+ "pk": 192,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:20.072Z",
+  "created_on": "2014-11-13T11:51:20.072Z",
+  "approved_symbol": "PSMB2"
+ }
+},
+{
+ "pk": 193,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:20.376Z",
+  "created_on": "2014-11-13T11:51:20.376Z",
+  "approved_symbol": "PSMB3"
+ }
+},
+{
+ "pk": 194,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:20.687Z",
+  "created_on": "2014-11-13T11:51:20.687Z",
+  "approved_symbol": "PSMB4"
+ }
+},
+{
+ "pk": 195,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:21.045Z",
+  "created_on": "2014-11-13T11:51:21.045Z",
+  "approved_symbol": "PSMB5"
+ }
+},
+{
+ "pk": 196,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:21.380Z",
+  "created_on": "2014-11-13T11:51:21.380Z",
+  "approved_symbol": "PSMB6"
+ }
+},
+{
+ "pk": 197,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:21.714Z",
+  "created_on": "2014-11-13T11:51:21.714Z",
+  "approved_symbol": "PSMB7"
+ }
+},
+{
+ "pk": 198,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:22.050Z",
+  "created_on": "2014-11-13T11:51:22.050Z",
+  "approved_symbol": "PSMB8"
+ }
+},
+{
+ "pk": 199,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:22.362Z",
+  "created_on": "2014-11-13T11:51:22.362Z",
+  "approved_symbol": "PSMB9"
+ }
+},
+{
+ "pk": 200,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:22.677Z",
+  "created_on": "2014-11-13T11:51:22.677Z",
+  "approved_symbol": "PSMB10"
+ }
+},
+{
+ "pk": 201,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:22.989Z",
+  "created_on": "2014-11-13T11:51:22.989Z",
+  "approved_symbol": "PSMC1"
+ }
+},
+{
+ "pk": 202,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:23.357Z",
+  "created_on": "2014-11-13T11:51:23.357Z",
+  "approved_symbol": "PSMC2"
+ }
+},
+{
+ "pk": 203,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:23.691Z",
+  "created_on": "2014-11-13T11:51:23.691Z",
+  "approved_symbol": "PSMC3"
+ }
+},
+{
+ "pk": 204,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:24.027Z",
+  "created_on": "2014-11-13T11:51:24.027Z",
+  "approved_symbol": "PSMC4"
+ }
+},
+{
+ "pk": 205,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:24.373Z",
+  "created_on": "2014-11-13T11:51:24.372Z",
+  "approved_symbol": "PSMC5"
+ }
+},
+{
+ "pk": 206,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:24.807Z",
+  "created_on": "2014-11-13T11:51:24.807Z",
+  "approved_symbol": "PSMC6"
+ }
+},
+{
+ "pk": 207,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:25.187Z",
+  "created_on": "2014-11-13T11:51:25.186Z",
+  "approved_symbol": "PSMD1"
+ }
+},
+{
+ "pk": 208,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:25.534Z",
+  "created_on": "2014-11-13T11:51:25.534Z",
+  "approved_symbol": "PSMD2"
+ }
+},
+{
+ "pk": 209,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:25.857Z",
+  "created_on": "2014-11-13T11:51:25.857Z",
+  "approved_symbol": "PSMD3"
+ }
+},
+{
+ "pk": 210,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:26.193Z",
+  "created_on": "2014-11-13T11:51:26.193Z",
+  "approved_symbol": "PSMD4"
+ }
+},
+{
+ "pk": 211,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:26.538Z",
+  "created_on": "2014-11-13T11:51:26.538Z",
+  "approved_symbol": "PSMD5"
+ }
+},
+{
+ "pk": 212,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:26.895Z",
+  "created_on": "2014-11-13T11:51:26.895Z",
+  "approved_symbol": "PSMD7"
+ }
+},
+{
+ "pk": 213,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:27.241Z",
+  "created_on": "2014-11-13T11:51:27.241Z",
+  "approved_symbol": "PSMD8"
+ }
+},
+{
+ "pk": 214,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:27.554Z",
+  "created_on": "2014-11-13T11:51:27.554Z",
+  "approved_symbol": "PSMD9"
+ }
+},
+{
+ "pk": 215,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:27.879Z",
+  "created_on": "2014-11-13T11:51:27.879Z",
+  "approved_symbol": "PSMD10"
+ }
+},
+{
+ "pk": 216,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:28.169Z",
+  "created_on": "2014-11-13T11:51:28.169Z",
+  "approved_symbol": "PSMD11"
+ }
+},
+{
+ "pk": 217,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:28.460Z",
+  "created_on": "2014-11-13T11:51:28.460Z",
+  "approved_symbol": "PSMD12"
+ }
+},
+{
+ "pk": 218,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:28.794Z",
+  "created_on": "2014-11-13T11:51:28.794Z",
+  "approved_symbol": "PSMD13"
+ }
+},
+{
+ "pk": 219,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:29.140Z",
+  "created_on": "2014-11-13T11:51:29.140Z",
+  "approved_symbol": "PSME1"
+ }
+},
+{
+ "pk": 220,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:29.486Z",
+  "created_on": "2014-11-13T11:51:29.486Z",
+  "approved_symbol": "PSME2"
+ }
+},
+{
+ "pk": 221,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:29.876Z",
+  "created_on": "2014-11-13T11:51:29.876Z",
+  "approved_symbol": "RPS27A"
+ }
+},
+{
+ "pk": 222,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:30.245Z",
+  "created_on": "2014-11-13T11:51:30.244Z",
+  "approved_symbol": "UBA52"
+ }
+},
+{
+ "pk": 223,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:30.637Z",
+  "created_on": "2014-11-13T11:51:30.636Z",
+  "approved_symbol": "UBB"
+ }
+},
+{
+ "pk": 224,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:30.971Z",
+  "created_on": "2014-11-13T11:51:30.971Z",
+  "approved_symbol": "UBC"
+ }
+},
+{
+ "pk": 225,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:31.351Z",
+  "created_on": "2014-11-13T11:51:31.351Z",
+  "approved_symbol": "ARHGAP10"
+ }
+},
+{
+ "pk": 226,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:32.154Z",
+  "created_on": "2014-11-13T11:51:32.154Z",
+  "approved_symbol": "UNC5A"
+ }
+},
+{
+ "pk": 227,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:32.578Z",
+  "created_on": "2014-11-13T11:51:32.577Z",
+  "approved_symbol": "PSMF1"
+ }
+},
+{
+ "pk": 228,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:33.012Z",
+  "created_on": "2014-11-13T11:51:33.012Z",
+  "approved_symbol": "MAGED1"
+ }
+},
+{
+ "pk": 229,
+ "model": "core.gmm",
+ "fields": {
+  "active": true,
+  "updated_on": "2014-11-13T11:51:33.304Z",
+  "created_on": "2014-11-13T11:51:33.304Z",
+  "approved_symbol": "PSMD6"
+ }
 }
 ]
