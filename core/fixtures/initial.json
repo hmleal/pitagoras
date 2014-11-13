@@ -1,9 +1,11 @@
 [
 {
- "model": "core.pathway",
- "pk": 1,
  "fields": {
-  "name": "Apoptosis - Homo sapiens (human)",
+  "name": "Apoptosis - Homo Sapiens (human)",
+  "acronym": "AHS",
+  "updated_on": "2014-11-13T18:33:55.885Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-12T23:36:38.907Z",
   "gmms": [
    2,
    3,
@@ -88,18 +90,18 @@
    82,
    83,
    84
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-12T23:36:38.907Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-12T23:36:38.907Z"
- }
+  ]
+ },
+ "pk": 1,
+ "model": "core.pathway"
 },
 {
- "model": "core.pathway",
- "pk": 2,
  "fields": {
   "name": "Apoptotic Execution Phase",
+  "acronym": "AEP",
+  "updated_on": "2014-11-13T18:33:45.061Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-12T23:49:46.059Z",
   "gmms": [
    6,
    7,
@@ -152,18 +154,18 @@
    126,
    127,
    128
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-12T23:49:46.059Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-12T23:49:46.059Z"
- }
+  ]
+ },
+ "pk": 2,
+ "model": "core.pathway"
 },
 {
- "model": "core.pathway",
- "pk": 3,
  "fields": {
-  "name": "Apoptotic signaling in response to dna damage",
+  "name": "Apoptotic Signaling in Response to dna Damage",
+  "acronym": "ASRDNAD",
+  "updated_on": "2014-11-13T18:33:31.880Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-13T00:56:25.324Z",
   "gmms": [
    9,
    28,
@@ -177,18 +179,18 @@
    66,
    67,
    68
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-13T00:58:03.695Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-13T00:56:25.324Z"
- }
+  ]
+ },
+ "pk": 3,
+ "model": "core.pathway"
 },
 {
- "model": "core.pathway",
- "pk": 4,
  "fields": {
   "name": "Caspase Cascade in Apoptosis",
+  "acronym": "CCA",
+  "updated_on": "2014-11-13T18:32:47.829Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-13T01:01:57.677Z",
   "gmms": [
    6,
    7,
@@ -242,18 +244,18 @@
    149,
    150,
    151
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-13T01:01:57.677Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-13T01:01:57.677Z"
- }
+  ]
+ },
+ "pk": 4,
+ "model": "core.pathway"
 },
 {
- "model": "core.pathway",
- "pk": 5,
  "fields": {
   "name": "Death Receptor Signalling",
+  "acronym": "DRS",
+  "updated_on": "2014-11-13T18:32:34.831Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-13T01:06:54.722Z",
   "gmms": [
    16,
    22,
@@ -268,18 +270,18 @@
    77,
    80,
    82
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-13T01:06:54.722Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-13T01:06:54.722Z"
- }
+  ]
+ },
+ "pk": 5,
+ "model": "core.pathway"
 },
 {
- "model": "core.pathway",
- "pk": 6,
  "fields": {
   "name": "Extrinsic Pathway for Apoptosis",
+  "acronym": "EPA",
+  "updated_on": "2014-11-13T18:32:24.209Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-13T01:09:54.047Z",
   "gmms": [
    16,
    22,
@@ -294,18 +296,18 @@
    77,
    80,
    82
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-13T01:09:54.047Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-13T01:09:54.047Z"
- }
+  ]
+ },
+ "pk": 6,
+ "model": "core.pathway"
 },
 {
- "model": "core.pathway",
- "pk": 7,
  "fields": {
   "name": "Granzyme a Mediated Apoptosis Pathway",
+  "acronym": "GMAP",
+  "updated_on": "2014-11-13T18:32:12.904Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-13T10:35:45.993Z",
   "gmms": [
    6,
    7,
@@ -320,18 +322,18 @@
    156,
    157,
    158
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-13T10:35:45.993Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-13T10:35:45.993Z"
- }
+  ]
+ },
+ "pk": 7,
+ "model": "core.pathway"
 },
 {
- "model": "core.pathway",
- "pk": 8,
  "fields": {
   "name": "Induction of apoptosis through dr3 and dr4/5 death receptors",
+  "acronym": "IATDR",
+  "updated_on": "2014-11-13T18:31:58.807Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-13T11:19:49.109Z",
   "gmms": [
    6,
    7,
@@ -353,18 +355,18 @@
    141,
    159,
    160
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-13T11:19:49.110Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-13T11:19:49.109Z"
- }
+  ]
+ },
+ "pk": 8,
+ "model": "core.pathway"
 },
 {
- "model": "core.pathway",
- "pk": 9,
  "fields": {
   "name": "Intrinsic Pathway for Apoptosis",
+  "acronym": "IPA",
+  "updated_on": "2014-11-13T18:31:26.374Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-13T11:47:49.657Z",
   "gmms": [
    9,
    12,
@@ -395,18 +397,18 @@
    170,
    171,
    172
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-13T11:47:49.657Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-13T11:47:49.657Z"
- }
+  ]
+ },
+ "pk": 9,
+ "model": "core.pathway"
 },
 {
- "model": "core.pathway",
- "pk": 10,
  "fields": {
   "name": "Regulation of Apoptosis",
+  "acronym": "RA",
+  "updated_on": "2014-11-13T18:31:14.909Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-13T11:51:06.308Z",
   "gmms": [
    66,
    70,
@@ -468,18 +470,18 @@
    227,
    228,
    229
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-13T11:51:06.308Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-13T11:51:06.308Z"
- }
+  ]
+ },
+ "pk": 10,
+ "model": "core.pathway"
 },
 {
- "model": "core.pathway",
- "pk": 11,
  "fields": {
   "name": "TNF Receptor Signaling Pathway",
+  "acronym": "TNFRSP",
+  "updated_on": "2014-11-13T18:30:17.913Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-13T13:54:47.614Z",
   "gmms": [
    13,
    14,
@@ -521,18 +523,18 @@
    256,
    257,
    258
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-13T13:54:47.614Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-13T13:54:47.614Z"
- }
+  ]
+ },
+ "pk": 11,
+ "model": "core.pathway"
 },
 {
- "model": "core.pathway",
- "pk": 12,
  "fields": {
   "name": "tnfr1 Signaling Pathway",
+  "acronym": "TNRF1",
+  "updated_on": "2014-11-13T18:30:03.583Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-13T14:00:34.623Z",
   "gmms": [
    14,
    60,
@@ -547,18 +549,18 @@
    150,
    258,
    259
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-13T14:00:34.624Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-13T14:00:34.623Z"
- }
+  ]
+ },
+ "pk": 12,
+ "model": "core.pathway"
 },
 {
- "model": "core.pathway",
- "pk": 13,
  "fields": {
   "name": "tnfr2 Signaling Pathway",
+  "acronym": "TNFR2",
+  "updated_on": "2014-11-13T18:29:53.767Z",
+  "type": "apoptosis",
+  "created_on": "2014-11-13T15:25:22.229Z",
   "gmms": [
    63,
    75,
@@ -570,2621 +572,2619 @@
    260,
    261,
    262
-  ],
-  "acronym": "",
-  "updated_on": "2014-11-13T15:25:22.229Z",
-  "type": "apoptosis",
-  "created_on": "2014-11-13T15:25:22.229Z"
- }
+  ]
+ },
+ "pk": 13,
+ "model": "core.pathway"
 },
 {
- "model": "core.gmm",
- "pk": 2,
  "fields": {
+  "approved_symbol": "AKT3",
   "active": true,
   "updated_on": "2014-11-12T23:39:53.034Z",
-  "approved_symbol": "AKT3",
   "created_on": "2014-11-12T23:39:53.034Z"
- }
+ },
+ "pk": 2,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 3,
  "fields": {
+  "approved_symbol": "IRAK3",
   "active": true,
   "updated_on": "2014-11-12T23:39:53.358Z",
-  "approved_symbol": "IRAK3",
   "created_on": "2014-11-12T23:39:53.358Z"
- }
+ },
+ "pk": 3,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 4,
  "fields": {
+  "approved_symbol": "CHUK",
   "active": true,
   "updated_on": "2014-11-12T23:39:53.660Z",
-  "approved_symbol": "CHUK",
   "created_on": "2014-11-12T23:39:53.660Z"
- }
+ },
+ "pk": 4,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 5,
  "fields": {
+  "approved_symbol": "CSF2RB",
   "active": true,
   "updated_on": "2014-11-12T23:39:53.950Z",
-  "approved_symbol": "CSF2RB",
   "created_on": "2014-11-12T23:39:53.950Z"
- }
+ },
+ "pk": 5,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 6,
  "fields": {
+  "approved_symbol": "DFFA",
   "active": true,
   "updated_on": "2014-11-12T23:39:54.241Z",
-  "approved_symbol": "DFFA",
   "created_on": "2014-11-12T23:39:54.240Z"
- }
+ },
+ "pk": 6,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 7,
  "fields": {
+  "approved_symbol": "DFFB",
   "active": true,
   "updated_on": "2014-11-12T23:39:54.541Z",
-  "approved_symbol": "DFFB",
   "created_on": "2014-11-12T23:39:54.541Z"
- }
+ },
+ "pk": 7,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 8,
  "fields": {
+  "approved_symbol": "ENDOG",
   "active": true,
   "updated_on": "2014-11-12T23:39:54.831Z",
-  "approved_symbol": "ENDOG",
   "created_on": "2014-11-12T23:39:54.831Z"
- }
+ },
+ "pk": 8,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 9,
  "fields": {
+  "approved_symbol": "AKT1",
   "active": true,
   "updated_on": "2014-11-12T23:39:55.112Z",
-  "approved_symbol": "AKT1",
   "created_on": "2014-11-12T23:39:55.112Z"
- }
+ },
+ "pk": 9,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 10,
  "fields": {
+  "approved_symbol": "AKT2",
   "active": true,
   "updated_on": "2014-11-12T23:39:55.415Z",
-  "approved_symbol": "AKT2",
   "created_on": "2014-11-12T23:39:55.414Z"
- }
+ },
+ "pk": 10,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 11,
  "fields": {
+  "approved_symbol": "PIK3R5",
   "active": true,
   "updated_on": "2014-11-12T23:39:55.727Z",
-  "approved_symbol": "PIK3R5",
   "created_on": "2014-11-12T23:39:55.727Z"
- }
+ },
+ "pk": 11,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 12,
  "fields": {
+  "approved_symbol": "APAF1",
   "active": true,
   "updated_on": "2014-11-12T23:39:56.051Z",
-  "approved_symbol": "APAF1",
   "created_on": "2014-11-12T23:39:56.050Z"
- }
+ },
+ "pk": 12,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 13,
  "fields": {
+  "approved_symbol": "BIRC2",
   "active": true,
   "updated_on": "2014-11-12T23:39:56.386Z",
-  "approved_symbol": "BIRC2",
   "created_on": "2014-11-12T23:39:56.386Z"
- }
+ },
+ "pk": 13,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 14,
  "fields": {
+  "approved_symbol": "BIRC3",
   "active": true,
   "updated_on": "2014-11-12T23:39:56.665Z",
-  "approved_symbol": "BIRC3",
   "created_on": "2014-11-12T23:39:56.665Z"
- }
+ },
+ "pk": 14,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 15,
  "fields": {
+  "approved_symbol": "XIAP",
   "active": true,
   "updated_on": "2014-11-12T23:39:57.011Z",
-  "approved_symbol": "XIAP",
   "created_on": "2014-11-12T23:39:57.011Z"
- }
+ },
+ "pk": 15,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 16,
  "fields": {
+  "approved_symbol": "FAS",
   "active": true,
   "updated_on": "2014-11-12T23:39:57.369Z",
-  "approved_symbol": "FAS",
   "created_on": "2014-11-12T23:39:57.368Z"
- }
+ },
+ "pk": 16,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 17,
  "fields": {
+  "approved_symbol": "IKBKB",
   "active": true,
   "updated_on": "2014-11-12T23:39:57.759Z",
-  "approved_symbol": "IKBKB",
   "created_on": "2014-11-12T23:39:57.759Z"
- }
+ },
+ "pk": 17,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 18,
  "fields": {
+  "approved_symbol": "IL1A",
   "active": true,
   "updated_on": "2014-11-12T23:39:58.117Z",
-  "approved_symbol": "IL1A",
   "created_on": "2014-11-12T23:39:58.117Z"
- }
+ },
+ "pk": 18,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 19,
  "fields": {
+  "approved_symbol": "IL1B",
   "active": true,
   "updated_on": "2014-11-12T23:39:58.418Z",
-  "approved_symbol": "IL1B",
   "created_on": "2014-11-12T23:39:58.418Z"
- }
+ },
+ "pk": 19,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 20,
  "fields": {
+  "approved_symbol": "IL1R1",
   "active": true,
   "updated_on": "2014-11-12T23:39:58.742Z",
-  "approved_symbol": "IL1R1",
   "created_on": "2014-11-12T23:39:58.742Z"
- }
+ },
+ "pk": 20,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 21,
  "fields": {
+  "approved_symbol": "IL1RAP",
   "active": true,
   "updated_on": "2014-11-12T23:39:59.065Z",
-  "approved_symbol": "IL1RAP",
   "created_on": "2014-11-12T23:39:59.065Z"
- }
+ },
+ "pk": 21,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 22,
  "fields": {
+  "approved_symbol": "FASLG",
   "active": true,
   "updated_on": "2014-11-12T23:39:59.367Z",
-  "approved_symbol": "FASLG",
   "created_on": "2014-11-12T23:39:59.367Z"
- }
+ },
+ "pk": 22,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 23,
  "fields": {
+  "approved_symbol": "IL3",
   "active": true,
   "updated_on": "2014-11-12T23:39:59.691Z",
-  "approved_symbol": "IL3",
   "created_on": "2014-11-12T23:39:59.691Z"
- }
+ },
+ "pk": 23,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 24,
  "fields": {
+  "approved_symbol": "IL3RA",
   "active": true,
   "updated_on": "2014-11-12T23:40:00.016Z",
-  "approved_symbol": "IL3RA",
   "created_on": "2014-11-12T23:40:00.016Z"
- }
+ },
+ "pk": 24,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 25,
  "fields": {
+  "approved_symbol": "IRAK1",
   "active": true,
   "updated_on": "2014-11-12T23:40:00.340Z",
-  "approved_symbol": "IRAK1",
   "created_on": "2014-11-12T23:40:00.340Z"
- }
+ },
+ "pk": 25,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 26,
  "fields": {
+  "approved_symbol": "IRAK2",
   "active": true,
   "updated_on": "2014-11-12T23:40:00.642Z",
-  "approved_symbol": "IRAK2",
   "created_on": "2014-11-12T23:40:00.642Z"
- }
+ },
+ "pk": 26,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 27,
  "fields": {
+  "approved_symbol": "MYD88",
   "active": true,
   "updated_on": "2014-11-12T23:40:00.954Z",
-  "approved_symbol": "MYD88",
   "created_on": "2014-11-12T23:40:00.954Z"
- }
+ },
+ "pk": 27,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 28,
  "fields": {
+  "approved_symbol": "ATM",
   "active": true,
   "updated_on": "2014-11-12T23:40:01.300Z",
-  "approved_symbol": "ATM",
   "created_on": "2014-11-12T23:40:01.300Z"
- }
+ },
+ "pk": 28,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 29,
  "fields": {
+  "approved_symbol": "NFKB1",
   "active": true,
   "updated_on": "2014-11-12T23:40:01.612Z",
-  "approved_symbol": "NFKB1",
   "created_on": "2014-11-12T23:40:01.612Z"
- }
+ },
+ "pk": 29,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 30,
  "fields": {
+  "approved_symbol": "NFKB2",
   "active": true,
   "updated_on": "2014-11-12T23:40:01.948Z",
-  "approved_symbol": "NFKB2",
   "created_on": "2014-11-12T23:40:01.948Z"
- }
+ },
+ "pk": 30,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 31,
  "fields": {
+  "approved_symbol": "NFKBIA",
   "active": true,
   "updated_on": "2014-11-12T23:40:02.251Z",
-  "approved_symbol": "NFKBIA",
   "created_on": "2014-11-12T23:40:02.250Z"
- }
+ },
+ "pk": 31,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 32,
  "fields": {
+  "approved_symbol": "NGF",
   "active": true,
   "updated_on": "2014-11-12T23:40:02.574Z",
-  "approved_symbol": "NGF",
   "created_on": "2014-11-12T23:40:02.574Z"
- }
+ },
+ "pk": 32,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 33,
  "fields": {
+  "approved_symbol": "NTRK1",
   "active": true,
   "updated_on": "2014-11-12T23:40:02.920Z",
-  "approved_symbol": "NTRK1",
   "created_on": "2014-11-12T23:40:02.920Z"
- }
+ },
+ "pk": 33,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 34,
  "fields": {
+  "approved_symbol": "IRAK4",
   "active": true,
   "updated_on": "2014-11-12T23:40:03.299Z",
-  "approved_symbol": "IRAK4",
   "created_on": "2014-11-12T23:40:03.299Z"
- }
+ },
+ "pk": 34,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 35,
  "fields": {
+  "approved_symbol": "PIK3CA",
   "active": true,
   "updated_on": "2014-11-12T23:40:03.668Z",
-  "approved_symbol": "PIK3CA",
   "created_on": "2014-11-12T23:40:03.668Z"
- }
+ },
+ "pk": 35,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 36,
  "fields": {
+  "approved_symbol": "PIK3CB",
   "active": true,
   "updated_on": "2014-11-12T23:40:04.025Z",
-  "approved_symbol": "PIK3CB",
   "created_on": "2014-11-12T23:40:04.024Z"
- }
+ },
+ "pk": 36,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 37,
  "fields": {
+  "approved_symbol": "PIK3CD",
   "active": true,
   "updated_on": "2014-11-12T23:40:04.381Z",
-  "approved_symbol": "PIK3CD",
   "created_on": "2014-11-12T23:40:04.381Z"
- }
+ },
+ "pk": 37,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 38,
  "fields": {
+  "approved_symbol": "PIK3CG",
   "active": true,
   "updated_on": "2014-11-12T23:40:04.719Z",
-  "approved_symbol": "PIK3CG",
   "created_on": "2014-11-12T23:40:04.718Z"
- }
+ },
+ "pk": 38,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 39,
  "fields": {
+  "approved_symbol": "PIK3R1",
   "active": true,
   "updated_on": "2014-11-12T23:40:05.042Z",
-  "approved_symbol": "PIK3R1",
   "created_on": "2014-11-12T23:40:05.041Z"
- }
+ },
+ "pk": 39,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 40,
  "fields": {
+  "approved_symbol": "PIK3R2",
   "active": true,
   "updated_on": "2014-11-12T23:40:05.366Z",
-  "approved_symbol": "PIK3R2",
   "created_on": "2014-11-12T23:40:05.366Z"
- }
+ },
+ "pk": 40,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 41,
  "fields": {
+  "approved_symbol": "CYCS",
   "active": true,
   "updated_on": "2014-11-12T23:40:05.667Z",
-  "approved_symbol": "CYCS",
   "created_on": "2014-11-12T23:40:05.667Z"
- }
+ },
+ "pk": 41,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 42,
  "fields": {
+  "approved_symbol": "PPP3CA",
   "active": true,
   "updated_on": "2014-11-12T23:40:06.002Z",
-  "approved_symbol": "PPP3CA",
   "created_on": "2014-11-12T23:40:06.002Z"
- }
+ },
+ "pk": 42,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 43,
  "fields": {
+  "approved_symbol": "PPP3CB",
   "active": true,
   "updated_on": "2014-11-12T23:40:06.337Z",
-  "approved_symbol": "PPP3CB",
   "created_on": "2014-11-12T23:40:06.337Z"
- }
+ },
+ "pk": 43,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 44,
  "fields": {
+  "approved_symbol": "PPP3CC",
   "active": true,
   "updated_on": "2014-11-12T23:40:06.639Z",
-  "approved_symbol": "PPP3CC",
   "created_on": "2014-11-12T23:40:06.639Z"
- }
+ },
+ "pk": 44,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 45,
  "fields": {
+  "approved_symbol": "PPP3R1",
   "active": true,
   "updated_on": "2014-11-12T23:40:06.942Z",
-  "approved_symbol": "PPP3R1",
   "created_on": "2014-11-12T23:40:06.942Z"
- }
+ },
+ "pk": 45,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 46,
  "fields": {
+  "approved_symbol": "PPP3R2",
   "active": true,
   "updated_on": "2014-11-12T23:40:07.276Z",
-  "approved_symbol": "PPP3R2",
   "created_on": "2014-11-12T23:40:07.276Z"
- }
+ },
+ "pk": 46,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 47,
  "fields": {
+  "approved_symbol": "PRKACA",
   "active": true,
   "updated_on": "2014-11-12T23:40:07.601Z",
-  "approved_symbol": "PRKACA",
   "created_on": "2014-11-12T23:40:07.600Z"
- }
+ },
+ "pk": 47,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 48,
  "fields": {
+  "approved_symbol": "PRKACB",
   "active": true,
   "updated_on": "2014-11-12T23:40:07.913Z",
-  "approved_symbol": "PRKACB",
   "created_on": "2014-11-12T23:40:07.913Z"
- }
+ },
+ "pk": 48,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 49,
  "fields": {
+  "approved_symbol": "PRKACG",
   "active": true,
   "updated_on": "2014-11-12T23:40:08.237Z",
-  "approved_symbol": "PRKACG",
   "created_on": "2014-11-12T23:40:08.237Z"
- }
+ },
+ "pk": 49,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 50,
  "fields": {
+  "approved_symbol": "PRKAR1A",
   "active": true,
   "updated_on": "2014-11-12T23:40:08.539Z",
-  "approved_symbol": "PRKAR1A",
   "created_on": "2014-11-12T23:40:08.539Z"
- }
+ },
+ "pk": 50,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 51,
  "fields": {
+  "approved_symbol": "PRKAR1B",
   "active": true,
   "updated_on": "2014-11-12T23:40:08.896Z",
-  "approved_symbol": "PRKAR1B",
   "created_on": "2014-11-12T23:40:08.896Z"
- }
+ },
+ "pk": 51,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 52,
  "fields": {
+  "approved_symbol": "PRKAR2A",
   "active": true,
   "updated_on": "2014-11-12T23:40:09.289Z",
-  "approved_symbol": "PRKAR2A",
   "created_on": "2014-11-12T23:40:09.289Z"
- }
+ },
+ "pk": 52,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 53,
  "fields": {
+  "approved_symbol": "PRKAR2B",
   "active": true,
   "updated_on": "2014-11-12T23:40:09.644Z",
-  "approved_symbol": "PRKAR2B",
   "created_on": "2014-11-12T23:40:09.644Z"
- }
+ },
+ "pk": 53,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 54,
  "fields": {
+  "approved_symbol": "BAD",
   "active": true,
   "updated_on": "2014-11-12T23:40:10.013Z",
-  "approved_symbol": "BAD",
   "created_on": "2014-11-12T23:40:10.013Z"
- }
+ },
+ "pk": 54,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 55,
  "fields": {
+  "approved_symbol": "BAX",
   "active": true,
   "updated_on": "2014-11-12T23:40:10.459Z",
-  "approved_symbol": "BAX",
   "created_on": "2014-11-12T23:40:10.459Z"
- }
+ },
+ "pk": 55,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 56,
  "fields": {
+  "approved_symbol": "BCL2",
   "active": true,
   "updated_on": "2014-11-12T23:40:10.827Z",
-  "approved_symbol": "BCL2",
   "created_on": "2014-11-12T23:40:10.827Z"
- }
+ },
+ "pk": 56,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 57,
  "fields": {
+  "approved_symbol": "RELA",
   "active": true,
   "updated_on": "2014-11-12T23:40:11.184Z",
-  "approved_symbol": "RELA",
   "created_on": "2014-11-12T23:40:11.184Z"
- }
+ },
+ "pk": 57,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 58,
  "fields": {
+  "approved_symbol": "BCL2L1",
   "active": true,
   "updated_on": "2014-11-12T23:40:11.530Z",
-  "approved_symbol": "BCL2L1",
   "created_on": "2014-11-12T23:40:11.530Z"
- }
+ },
+ "pk": 58,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 59,
  "fields": {
+  "approved_symbol": "BID",
   "active": true,
   "updated_on": "2014-11-12T23:40:11.833Z",
-  "approved_symbol": "BID",
   "created_on": "2014-11-12T23:40:11.833Z"
- }
+ },
+ "pk": 59,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 60,
  "fields": {
+  "approved_symbol": "TNF",
   "active": true,
   "updated_on": "2014-11-12T23:40:12.146Z",
-  "approved_symbol": "TNF",
   "created_on": "2014-11-12T23:40:12.145Z"
- }
+ },
+ "pk": 60,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 61,
  "fields": {
+  "approved_symbol": "TNFRSF1A",
   "active": true,
   "updated_on": "2014-11-12T23:40:12.459Z",
-  "approved_symbol": "TNFRSF1A",
   "created_on": "2014-11-12T23:40:12.459Z"
- }
+ },
+ "pk": 61,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 62,
  "fields": {
+  "approved_symbol": "TP53",
   "active": true,
   "updated_on": "2014-11-12T23:40:12.760Z",
-  "approved_symbol": "TP53",
   "created_on": "2014-11-12T23:40:12.760Z"
- }
+ },
+ "pk": 62,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 63,
  "fields": {
+  "approved_symbol": "TRAF2",
   "active": true,
   "updated_on": "2014-11-12T23:40:13.139Z",
-  "approved_symbol": "TRAF2",
   "created_on": "2014-11-12T23:40:13.139Z"
- }
+ },
+ "pk": 63,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 64,
  "fields": {
+  "approved_symbol": "CAPN1",
   "active": true,
   "updated_on": "2014-11-12T23:40:13.475Z",
-  "approved_symbol": "CAPN1",
   "created_on": "2014-11-12T23:40:13.475Z"
- }
+ },
+ "pk": 64,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 65,
  "fields": {
+  "approved_symbol": "CAPN2",
   "active": true,
   "updated_on": "2014-11-12T23:40:13.821Z",
-  "approved_symbol": "CAPN2",
   "created_on": "2014-11-12T23:40:13.820Z"
- }
+ },
+ "pk": 65,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 66,
  "fields": {
+  "approved_symbol": "CASP3",
   "active": true,
   "updated_on": "2014-11-12T23:40:14.290Z",
-  "approved_symbol": "CASP3",
   "created_on": "2014-11-12T23:40:14.290Z"
- }
+ },
+ "pk": 66,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 67,
  "fields": {
+  "approved_symbol": "CASP6",
   "active": true,
   "updated_on": "2014-11-12T23:40:14.725Z",
-  "approved_symbol": "CASP6",
   "created_on": "2014-11-12T23:40:14.725Z"
- }
+ },
+ "pk": 67,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 68,
  "fields": {
+  "approved_symbol": "CASP7",
   "active": true,
   "updated_on": "2014-11-12T23:40:15.049Z",
-  "approved_symbol": "CASP7",
   "created_on": "2014-11-12T23:40:15.049Z"
- }
+ },
+ "pk": 68,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 69,
  "fields": {
+  "approved_symbol": "CASP8",
   "active": true,
   "updated_on": "2014-11-12T23:40:15.362Z",
-  "approved_symbol": "CASP8",
   "created_on": "2014-11-12T23:40:15.362Z"
- }
+ },
+ "pk": 69,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 70,
  "fields": {
+  "approved_symbol": "CASP9",
   "active": true,
   "updated_on": "2014-11-12T23:40:15.675Z",
-  "approved_symbol": "CASP9",
   "created_on": "2014-11-12T23:40:15.675Z"
- }
+ },
+ "pk": 70,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 71,
  "fields": {
+  "approved_symbol": "CASP10",
   "active": true,
   "updated_on": "2014-11-12T23:40:15.975Z",
-  "approved_symbol": "CASP10",
   "created_on": "2014-11-12T23:40:15.975Z"
- }
+ },
+ "pk": 71,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 72,
  "fields": {
+  "approved_symbol": "PIK3R3",
   "active": true,
   "updated_on": "2014-11-12T23:40:16.422Z",
-  "approved_symbol": "PIK3R3",
   "created_on": "2014-11-12T23:40:16.422Z"
- }
+ },
+ "pk": 72,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 73,
  "fields": {
+  "approved_symbol": "IKBKG",
   "active": true,
   "updated_on": "2014-11-12T23:40:16.846Z",
-  "approved_symbol": "IKBKG",
   "created_on": "2014-11-12T23:40:16.846Z"
- }
+ },
+ "pk": 73,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 74,
  "fields": {
+  "approved_symbol": "TRADD",
   "active": true,
   "updated_on": "2014-11-12T23:40:17.226Z",
-  "approved_symbol": "TRADD",
   "created_on": "2014-11-12T23:40:17.226Z"
- }
+ },
+ "pk": 74,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 75,
  "fields": {
+  "approved_symbol": "RIPK1",
   "active": true,
   "updated_on": "2014-11-12T23:40:17.528Z",
-  "approved_symbol": "RIPK1",
   "created_on": "2014-11-12T23:40:17.528Z"
- }
+ },
+ "pk": 75,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 76,
  "fields": {
+  "approved_symbol": "TNFSF10",
   "active": true,
   "updated_on": "2014-11-12T23:40:17.862Z",
-  "approved_symbol": "TNFSF10",
   "created_on": "2014-11-12T23:40:17.862Z"
- }
+ },
+ "pk": 76,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 77,
  "fields": {
+  "approved_symbol": "FADD",
   "active": true,
   "updated_on": "2014-11-12T23:40:18.153Z",
-  "approved_symbol": "FADD",
   "created_on": "2014-11-12T23:40:18.153Z"
- }
+ },
+ "pk": 77,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 78,
  "fields": {
+  "approved_symbol": "TNFRSF10D",
   "active": true,
   "updated_on": "2014-11-12T23:40:18.454Z",
-  "approved_symbol": "TNFRSF10D",
   "created_on": "2014-11-12T23:40:18.453Z"
- }
+ },
+ "pk": 78,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 79,
  "fields": {
+  "approved_symbol": "TNFRSF10C",
   "active": true,
   "updated_on": "2014-11-12T23:40:18.845Z",
-  "approved_symbol": "TNFRSF10C",
   "created_on": "2014-11-12T23:40:18.845Z"
- }
+ },
+ "pk": 79,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 80,
  "fields": {
+  "approved_symbol": "TNFRSF10B",
   "active": true,
   "updated_on": "2014-11-12T23:40:19.259Z",
-  "approved_symbol": "TNFRSF10B",
   "created_on": "2014-11-12T23:40:19.259Z"
- }
+ },
+ "pk": 80,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 81,
  "fields": {
+  "approved_symbol": "TNFRSF10A",
   "active": true,
   "updated_on": "2014-11-12T23:40:19.682Z",
-  "approved_symbol": "TNFRSF10A",
   "created_on": "2014-11-12T23:40:19.682Z"
- }
+ },
+ "pk": 81,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 82,
  "fields": {
+  "approved_symbol": "CFLAR",
   "active": true,
   "updated_on": "2014-11-12T23:40:19.983Z",
-  "approved_symbol": "CFLAR",
   "created_on": "2014-11-12T23:40:19.983Z"
- }
+ },
+ "pk": 82,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 83,
  "fields": {
+  "approved_symbol": "MAP3K14",
   "active": true,
   "updated_on": "2014-11-12T23:40:20.275Z",
-  "approved_symbol": "MAP3K14",
   "created_on": "2014-11-12T23:40:20.275Z"
- }
+ },
+ "pk": 83,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 84,
  "fields": {
+  "approved_symbol": "AIFM1",
   "active": true,
   "updated_on": "2014-11-12T23:40:20.576Z",
-  "approved_symbol": "AIFM1",
   "created_on": "2014-11-12T23:40:20.576Z"
- }
+ },
+ "pk": 84,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 85,
  "fields": {
+  "approved_symbol": "DNM1L",
   "active": true,
   "updated_on": "2014-11-12T23:51:29.133Z",
-  "approved_symbol": "DNM1L",
   "created_on": "2014-11-12T23:51:29.133Z"
- }
+ },
+ "pk": 85,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 86,
  "fields": {
+  "approved_symbol": "BCAP31",
   "active": true,
   "updated_on": "2014-11-12T23:51:29.561Z",
-  "approved_symbol": "BCAP31",
   "created_on": "2014-11-12T23:51:29.561Z"
- }
+ },
+ "pk": 86,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 87,
  "fields": {
+  "approved_symbol": "ADD1",
   "active": true,
   "updated_on": "2014-11-12T23:51:29.831Z",
-  "approved_symbol": "ADD1",
   "created_on": "2014-11-12T23:51:29.831Z"
- }
+ },
+ "pk": 87,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 88,
  "fields": {
+  "approved_symbol": "CTNNB1",
   "active": true,
   "updated_on": "2014-11-12T23:51:30.099Z",
-  "approved_symbol": "CTNNB1",
   "created_on": "2014-11-12T23:51:30.099Z"
- }
+ },
+ "pk": 88,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 89,
  "fields": {
+  "approved_symbol": "DSG1",
   "active": true,
   "updated_on": "2014-11-12T23:51:30.669Z",
-  "approved_symbol": "DSG1",
   "created_on": "2014-11-12T23:51:30.669Z"
- }
+ },
+ "pk": 89,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 90,
  "fields": {
+  "approved_symbol": "DSG2",
   "active": true,
   "updated_on": "2014-11-12T23:51:31.004Z",
-  "approved_symbol": "DSG2",
   "created_on": "2014-11-12T23:51:31.003Z"
- }
+ },
+ "pk": 90,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 91,
  "fields": {
+  "approved_symbol": "DSG3",
   "active": true,
   "updated_on": "2014-11-12T23:51:31.283Z",
-  "approved_symbol": "DSG3",
   "created_on": "2014-11-12T23:51:31.283Z"
- }
+ },
+ "pk": 91,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 92,
  "fields": {
+  "approved_symbol": "DSP",
   "active": true,
   "updated_on": "2014-11-12T23:51:31.607Z",
-  "approved_symbol": "DSP",
   "created_on": "2014-11-12T23:51:31.607Z"
- }
+ },
+ "pk": 92,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 93,
  "fields": {
+  "approved_symbol": "ACIN1",
   "active": true,
   "updated_on": "2014-11-12T23:51:31.888Z",
-  "approved_symbol": "ACIN1",
   "created_on": "2014-11-12T23:51:31.888Z"
- }
+ },
+ "pk": 93,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 94,
  "fields": {
+  "approved_symbol": "FNTA",
   "active": true,
   "updated_on": "2014-11-12T23:51:32.155Z",
-  "approved_symbol": "FNTA",
   "created_on": "2014-11-12T23:51:32.155Z"
- }
+ },
+ "pk": 94,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 95,
  "fields": {
+  "approved_symbol": "GAS2",
   "active": true,
   "updated_on": "2014-11-12T23:51:32.435Z",
-  "approved_symbol": "GAS2",
   "created_on": "2014-11-12T23:51:32.435Z"
- }
+ },
+ "pk": 95,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 96,
  "fields": {
+  "approved_symbol": "DBNL",
   "active": true,
   "updated_on": "2014-11-12T23:51:32.759Z",
-  "approved_symbol": "DBNL",
   "created_on": "2014-11-12T23:51:32.759Z"
- }
+ },
+ "pk": 96,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 97,
  "fields": {
+  "approved_symbol": "GSN",
   "active": true,
   "updated_on": "2014-11-12T23:51:33.082Z",
-  "approved_symbol": "GSN",
   "created_on": "2014-11-12T23:51:33.082Z"
- }
+ },
+ "pk": 97,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 98,
  "fields": {
+  "approved_symbol": "H1F0",
   "active": true,
   "updated_on": "2014-11-12T23:51:33.362Z",
-  "approved_symbol": "H1F0",
   "created_on": "2014-11-12T23:51:33.362Z"
- }
+ },
+ "pk": 98,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 99,
  "fields": {
+  "approved_symbol": "HIST1H1C",
   "active": true,
   "updated_on": "2014-11-12T23:51:33.719Z",
-  "approved_symbol": "HIST1H1C",
   "created_on": "2014-11-12T23:51:33.719Z"
- }
+ },
+ "pk": 99,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 100,
  "fields": {
+  "approved_symbol": "HIST1H1D",
   "active": true,
   "updated_on": "2014-11-12T23:51:34.111Z",
-  "approved_symbol": "HIST1H1D",
   "created_on": "2014-11-12T23:51:34.111Z"
- }
+ },
+ "pk": 100,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 101,
  "fields": {
+  "approved_symbol": "HIST1H1E",
   "active": true,
   "updated_on": "2014-11-12T23:51:34.456Z",
-  "approved_symbol": "HIST1H1E",
   "created_on": "2014-11-12T23:51:34.456Z"
- }
+ },
+ "pk": 101,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 102,
  "fields": {
+  "approved_symbol": "HIST1H1B",
   "active": true,
   "updated_on": "2014-11-12T23:51:34.769Z",
-  "approved_symbol": "HIST1H1B",
   "created_on": "2014-11-12T23:51:34.769Z"
- }
+ },
+ "pk": 102,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 103,
  "fields": {
+  "approved_symbol": "HIST1H1A",
   "active": true,
   "updated_on": "2014-11-12T23:51:35.149Z",
-  "approved_symbol": "HIST1H1A",
   "created_on": "2014-11-12T23:51:35.149Z"
- }
+ },
+ "pk": 103,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 104,
  "fields": {
+  "approved_symbol": "HMGB1",
   "active": true,
   "updated_on": "2014-11-12T23:51:35.450Z",
-  "approved_symbol": "HMGB1",
   "created_on": "2014-11-12T23:51:35.450Z"
- }
+ },
+ "pk": 104,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 105,
  "fields": {
+  "approved_symbol": "HMGB2",
   "active": true,
   "updated_on": "2014-11-12T23:51:35.729Z",
-  "approved_symbol": "HMGB2",
   "created_on": "2014-11-12T23:51:35.729Z"
- }
+ },
+ "pk": 105,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 106,
  "fields": {
+  "approved_symbol": "APC",
   "active": true,
   "updated_on": "2014-11-12T23:51:36.042Z",
-  "approved_symbol": "APC",
   "created_on": "2014-11-12T23:51:36.042Z"
- }
+ },
+ "pk": 106,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 107,
  "fields": {
+  "approved_symbol": "KPNA1",
   "active": true,
   "updated_on": "2014-11-12T23:51:36.457Z",
-  "approved_symbol": "KPNA1",
   "created_on": "2014-11-12T23:51:36.457Z"
- }
+ },
+ "pk": 107,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 108,
  "fields": {
+  "approved_symbol": "KPNB1",
   "active": true,
   "updated_on": "2014-11-12T23:51:36.770Z",
-  "approved_symbol": "KPNB1",
   "created_on": "2014-11-12T23:51:36.769Z"
- }
+ },
+ "pk": 108,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 109,
  "fields": {
+  "approved_symbol": "LMNA",
   "active": true,
   "updated_on": "2014-11-12T23:51:37.049Z",
-  "approved_symbol": "LMNA",
   "created_on": "2014-11-12T23:51:37.049Z"
- }
+ },
+ "pk": 109,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 110,
  "fields": {
+  "approved_symbol": "LMNB1",
   "active": true,
   "updated_on": "2014-11-12T23:51:37.351Z",
-  "approved_symbol": "LMNB1",
   "created_on": "2014-11-12T23:51:37.350Z"
- }
+ },
+ "pk": 110,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 111,
  "fields": {
+  "approved_symbol": "MAPT",
   "active": true,
   "updated_on": "2014-11-12T23:51:37.719Z",
-  "approved_symbol": "MAPT",
   "created_on": "2014-11-12T23:51:37.719Z"
- }
+ },
+ "pk": 111,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 112,
  "fields": {
+  "approved_symbol": "OCLN",
   "active": true,
   "updated_on": "2014-11-12T23:51:38.054Z",
-  "approved_symbol": "OCLN",
   "created_on": "2014-11-12T23:51:38.054Z"
- }
+ },
+ "pk": 112,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 113,
  "fields": {
+  "approved_symbol": "PAK2",
   "active": true,
   "updated_on": "2014-11-12T23:51:38.489Z",
-  "approved_symbol": "PAK2",
   "created_on": "2014-11-12T23:51:38.488Z"
- }
+ },
+ "pk": 113,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 114,
  "fields": {
+  "approved_symbol": "PKP1",
   "active": true,
   "updated_on": "2014-11-12T23:51:38.814Z",
-  "approved_symbol": "PKP1",
   "created_on": "2014-11-12T23:51:38.813Z"
- }
+ },
+ "pk": 114,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 115,
  "fields": {
+  "approved_symbol": "PLEC1",
   "active": true,
   "updated_on": "2014-11-12T23:51:39.104Z",
-  "approved_symbol": "PLEC1",
   "created_on": "2014-11-12T23:51:39.104Z"
- }
+ },
+ "pk": 115,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 116,
  "fields": {
+  "approved_symbol": "PRKCD",
   "active": true,
   "updated_on": "2014-11-12T23:51:39.539Z",
-  "approved_symbol": "PRKCD",
   "created_on": "2014-11-12T23:51:39.539Z"
- }
+ },
+ "pk": 116,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 117,
  "fields": {
+  "approved_symbol": "PRKCQ",
   "active": true,
   "updated_on": "2014-11-12T23:51:39.896Z",
-  "approved_symbol": "PRKCQ",
   "created_on": "2014-11-12T23:51:39.896Z"
- }
+ },
+ "pk": 117,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 118,
  "fields": {
+  "approved_symbol": "PTK2",
   "active": true,
   "updated_on": "2014-11-12T23:51:40.231Z",
-  "approved_symbol": "PTK2",
   "created_on": "2014-11-12T23:51:40.230Z"
- }
+ },
+ "pk": 118,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 119,
  "fields": {
+  "approved_symbol": "ROCK1",
   "active": true,
   "updated_on": "2014-11-12T23:51:40.588Z",
-  "approved_symbol": "ROCK1",
   "created_on": "2014-11-12T23:51:40.588Z"
- }
+ },
+ "pk": 119,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 120,
  "fields": {
+  "approved_symbol": "SATB1",
   "active": true,
   "updated_on": "2014-11-12T23:51:40.901Z",
-  "approved_symbol": "SATB1",
   "created_on": "2014-11-12T23:51:40.901Z"
- }
+ },
+ "pk": 120,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 121,
  "fields": {
+  "approved_symbol": "CLSPN",
   "active": true,
   "updated_on": "2014-11-12T23:51:41.204Z",
-  "approved_symbol": "CLSPN",
   "created_on": "2014-11-12T23:51:41.203Z"
- }
+ },
+ "pk": 121,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 122,
  "fields": {
+  "approved_symbol": "BMX",
   "active": true,
   "updated_on": "2014-11-12T23:51:41.538Z",
-  "approved_symbol": "BMX",
   "created_on": "2014-11-12T23:51:41.538Z"
- }
+ },
+ "pk": 122,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 123,
  "fields": {
+  "approved_symbol": "SPTAN1",
   "active": true,
   "updated_on": "2014-11-12T23:51:41.862Z",
-  "approved_symbol": "SPTAN1",
   "created_on": "2014-11-12T23:51:41.862Z"
- }
+ },
+ "pk": 123,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 124,
  "fields": {
+  "approved_symbol": "TJP1",
   "active": true,
   "updated_on": "2014-11-12T23:51:42.175Z",
-  "approved_symbol": "TJP1",
   "created_on": "2014-11-12T23:51:42.175Z"
- }
+ },
+ "pk": 124,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 125,
  "fields": {
+  "approved_symbol": "VIM",
   "active": true,
   "updated_on": "2014-11-12T23:51:42.531Z",
-  "approved_symbol": "VIM",
   "created_on": "2014-11-12T23:51:42.531Z"
- }
+ },
+ "pk": 125,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 126,
  "fields": {
+  "approved_symbol": "STK24",
   "active": true,
   "updated_on": "2014-11-12T23:51:43.860Z",
-  "approved_symbol": "STK24",
   "created_on": "2014-11-12T23:51:43.860Z"
- }
+ },
+ "pk": 126,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 127,
  "fields": {
+  "approved_symbol": "TJP2",
   "active": true,
   "updated_on": "2014-11-12T23:51:44.318Z",
-  "approved_symbol": "TJP2",
   "created_on": "2014-11-12T23:51:44.318Z"
- }
+ },
+ "pk": 127,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 128,
  "fields": {
+  "approved_symbol": "CDH1",
   "active": true,
   "updated_on": "2014-11-12T23:51:44.675Z",
-  "approved_symbol": "CDH1",
   "created_on": "2014-11-12T23:51:44.675Z"
- }
+ },
+ "pk": 128,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 129,
  "fields": {
+  "approved_symbol": "CFL2",
   "active": true,
   "updated_on": "2014-11-13T01:02:57.321Z",
-  "approved_symbol": "CFL2",
   "created_on": "2014-11-13T01:02:57.320Z"
- }
+ },
+ "pk": 129,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 130,
  "fields": {
+  "approved_symbol": "PARP1",
   "active": true,
   "updated_on": "2014-11-13T01:02:57.788Z",
-  "approved_symbol": "PARP1",
   "created_on": "2014-11-13T01:02:57.788Z"
- }
+ },
+ "pk": 130,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 131,
  "fields": {
+  "approved_symbol": "GZMB",
   "active": true,
   "updated_on": "2014-11-13T01:02:58.826Z",
-  "approved_symbol": "GZMB",
   "created_on": "2014-11-13T01:02:58.826Z"
- }
+ },
+ "pk": 131,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 132,
  "fields": {
+  "approved_symbol": "APP",
   "active": true,
   "updated_on": "2014-11-13T01:02:59.841Z",
-  "approved_symbol": "APP",
   "created_on": "2014-11-13T01:02:59.841Z"
- }
+ },
+ "pk": 132,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 133,
  "fields": {
+  "approved_symbol": "KRT18",
   "active": true,
   "updated_on": "2014-11-13T01:03:00.156Z",
-  "approved_symbol": "KRT18",
   "created_on": "2014-11-13T01:03:00.155Z"
- }
+ },
+ "pk": 133,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 134,
  "fields": {
+  "approved_symbol": "ARHGDIB",
   "active": true,
   "updated_on": "2014-11-13T01:03:00.501Z",
-  "approved_symbol": "ARHGDIB",
   "created_on": "2014-11-13T01:03:00.501Z"
- }
+ },
+ "pk": 134,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 135,
  "fields": {
+  "approved_symbol": "LIMK1",
   "active": true,
   "updated_on": "2014-11-13T01:03:00.859Z",
-  "approved_symbol": "LIMK1",
   "created_on": "2014-11-13T01:03:00.858Z"
- }
+ },
+ "pk": 135,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 136,
  "fields": {
+  "approved_symbol": "MAP3K1",
   "active": true,
   "updated_on": "2014-11-13T01:03:01.484Z",
-  "approved_symbol": "MAP3K1",
   "created_on": "2014-11-13T01:03:01.484Z"
- }
+ },
+ "pk": 136,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 137,
  "fields": {
+  "approved_symbol": "NUMA1",
   "active": true,
   "updated_on": "2014-11-13T01:03:01.841Z",
-  "approved_symbol": "NUMA1",
   "created_on": "2014-11-13T01:03:01.840Z"
- }
+ },
+ "pk": 137,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 138,
  "fields": {
+  "approved_symbol": "LRDD",
   "active": true,
   "updated_on": "2014-11-13T01:03:02.388Z",
-  "approved_symbol": "LRDD",
   "created_on": "2014-11-13T01:03:02.388Z"
- }
+ },
+ "pk": 138,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 139,
  "fields": {
+  "approved_symbol": "PRF1",
   "active": true,
   "updated_on": "2014-11-13T01:03:02.813Z",
-  "approved_symbol": "PRF1",
   "created_on": "2014-11-13T01:03:02.813Z"
- }
+ },
+ "pk": 139,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 140,
  "fields": {
+  "approved_symbol": "DIABLO",
   "active": true,
   "updated_on": "2014-11-13T01:03:03.159Z",
-  "approved_symbol": "DIABLO",
   "created_on": "2014-11-13T01:03:03.158Z"
- }
+ },
+ "pk": 140,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 141,
  "fields": {
+  "approved_symbol": "ACTA1",
   "active": true,
   "updated_on": "2014-11-13T01:03:03.650Z",
-  "approved_symbol": "ACTA1",
   "created_on": "2014-11-13T01:03:03.650Z"
- }
+ },
+ "pk": 141,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 142,
  "fields": {
+  "approved_symbol": "SREBF1",
   "active": true,
   "updated_on": "2014-11-13T01:03:04.755Z",
-  "approved_symbol": "SREBF1",
   "created_on": "2014-11-13T01:03:04.755Z"
- }
+ },
+ "pk": 142,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 143,
  "fields": {
+  "approved_symbol": "TFAP2A",
   "active": true,
   "updated_on": "2014-11-13T01:03:05.092Z",
-  "approved_symbol": "TFAP2A",
   "created_on": "2014-11-13T01:03:05.091Z"
- }
+ },
+ "pk": 143,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 144,
  "fields": {
+  "approved_symbol": "TOP1",
   "active": true,
   "updated_on": "2014-11-13T01:03:05.784Z",
-  "approved_symbol": "TOP1",
   "created_on": "2014-11-13T01:03:05.784Z"
- }
+ },
+ "pk": 144,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 145,
  "fields": {
+  "approved_symbol": "CASP1",
   "active": true,
   "updated_on": "2014-11-13T01:03:06.398Z",
-  "approved_symbol": "CASP1",
   "created_on": "2014-11-13T01:03:06.398Z"
- }
+ },
+ "pk": 145,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 146,
  "fields": {
+  "approved_symbol": "CASP2",
   "active": true,
   "updated_on": "2014-11-13T01:03:06.710Z",
-  "approved_symbol": "CASP2",
   "created_on": "2014-11-13T01:03:06.710Z"
- }
+ },
+ "pk": 146,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 147,
  "fields": {
+  "approved_symbol": "CASP4",
   "active": true,
   "updated_on": "2014-11-13T01:03:07.179Z",
-  "approved_symbol": "CASP4",
   "created_on": "2014-11-13T01:03:07.179Z"
- }
+ },
+ "pk": 147,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 148,
  "fields": {
+  "approved_symbol": "LMNB2",
   "active": true,
   "updated_on": "2014-11-13T01:03:08.497Z",
-  "approved_symbol": "LMNB2",
   "created_on": "2014-11-13T01:03:08.497Z"
- }
+ },
+ "pk": 148,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 149,
  "fields": {
+  "approved_symbol": "MADD",
   "active": true,
   "updated_on": "2014-11-13T01:03:08.877Z",
-  "approved_symbol": "MADD",
   "created_on": "2014-11-13T01:03:08.876Z"
- }
+ },
+ "pk": 149,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 150,
  "fields": {
+  "approved_symbol": "CRADD",
   "active": true,
   "updated_on": "2014-11-13T01:03:09.624Z",
-  "approved_symbol": "CRADD",
   "created_on": "2014-11-13T01:03:09.623Z"
- }
+ },
+ "pk": 150,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 151,
  "fields": {
+  "approved_symbol": "SLK",
   "active": true,
   "updated_on": "2014-11-13T01:03:09.959Z",
-  "approved_symbol": "SLK",
   "created_on": "2014-11-13T01:03:09.959Z"
- }
+ },
+ "pk": 151,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 152,
  "fields": {
+  "approved_symbol": "CREBBP",
   "active": true,
   "updated_on": "2014-11-13T10:36:15.340Z",
-  "approved_symbol": "CREBBP",
   "created_on": "2014-11-13T10:36:15.340Z"
- }
+ },
+ "pk": 152,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 153,
  "fields": {
+  "approved_symbol": "GZMA",
   "active": true,
   "updated_on": "2014-11-13T10:36:16.209Z",
-  "approved_symbol": "GZMA",
   "created_on": "2014-11-13T10:36:16.208Z"
- }
+ },
+ "pk": 153,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 154,
  "fields": {
+  "approved_symbol": "APEX1",
   "active": true,
   "updated_on": "2014-11-13T10:36:16.956Z",
-  "approved_symbol": "APEX1",
   "created_on": "2014-11-13T10:36:16.956Z"
- }
+ },
+ "pk": 154,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 155,
  "fields": {
+  "approved_symbol": "NME1",
   "active": true,
   "updated_on": "2014-11-13T10:36:17.313Z",
-  "approved_symbol": "NME1",
   "created_on": "2014-11-13T10:36:17.313Z"
- }
+ },
+ "pk": 155,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 156,
  "fields": {
+  "approved_symbol": "OPN1LW",
   "active": true,
   "updated_on": "2014-11-13T10:36:17.793Z",
-  "approved_symbol": "OPN1LW",
   "created_on": "2014-11-13T10:36:17.793Z"
- }
+ },
+ "pk": 156,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 157,
  "fields": {
+  "approved_symbol": "SET",
   "active": true,
   "updated_on": "2014-11-13T10:36:18.118Z",
-  "approved_symbol": "SET",
   "created_on": "2014-11-13T10:36:18.117Z"
- }
+ },
+ "pk": 157,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 158,
  "fields": {
+  "approved_symbol": "ANP32A",
   "active": true,
   "updated_on": "2014-11-13T10:36:18.453Z",
-  "approved_symbol": "ANP32A",
   "created_on": "2014-11-13T10:36:18.453Z"
- }
+ },
+ "pk": 158,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 159,
  "fields": {
+  "approved_symbol": "TNFRSF25",
   "active": true,
   "updated_on": "2014-11-13T11:20:02.549Z",
-  "approved_symbol": "TNFRSF25",
   "created_on": "2014-11-13T11:20:02.548Z"
- }
+ },
+ "pk": 159,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 160,
  "fields": {
+  "approved_symbol": "TNFSF12",
   "active": true,
   "updated_on": "2014-11-13T11:20:03.028Z",
-  "approved_symbol": "TNFSF12",
   "created_on": "2014-11-13T11:20:03.028Z"
- }
+ },
+ "pk": 160,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 161,
  "fields": {
+  "approved_symbol": "BCL2L11",
   "active": true,
   "updated_on": "2014-11-13T11:48:01.404Z",
-  "approved_symbol": "BCL2L11",
   "created_on": "2014-11-13T11:48:01.404Z"
- }
+ },
+ "pk": 161,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 162,
  "fields": {
+  "approved_symbol": "DYNLL2",
   "active": true,
   "updated_on": "2014-11-13T11:48:02.255Z",
-  "approved_symbol": "DYNLL2",
   "created_on": "2014-11-13T11:48:02.255Z"
- }
+ },
+ "pk": 162,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 163,
  "fields": {
+  "approved_symbol": "E2F1",
   "active": true,
   "updated_on": "2014-11-13T11:48:02.601Z",
-  "approved_symbol": "E2F1",
   "created_on": "2014-11-13T11:48:02.601Z"
- }
+ },
+ "pk": 163,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 164,
  "fields": {
+  "approved_symbol": "BBC3",
   "active": true,
   "updated_on": "2014-11-13T11:48:03.092Z",
-  "approved_symbol": "BBC3",
   "created_on": "2014-11-13T11:48:03.092Z"
- }
+ },
+ "pk": 164,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 165,
  "fields": {
+  "approved_symbol": "NMT1",
   "active": true,
   "updated_on": "2014-11-13T11:48:03.931Z",
-  "approved_symbol": "NMT1",
   "created_on": "2014-11-13T11:48:03.931Z"
- }
+ },
+ "pk": 165,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 166,
  "fields": {
+  "approved_symbol": "PMAIP1",
   "active": true,
   "updated_on": "2014-11-13T11:48:04.243Z",
-  "approved_symbol": "PMAIP1",
   "created_on": "2014-11-13T11:48:04.243Z"
- }
+ },
+ "pk": 166,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 167,
  "fields": {
+  "approved_symbol": "MAPK8",
   "active": true,
   "updated_on": "2014-11-13T11:48:05.125Z",
-  "approved_symbol": "MAPK8",
   "created_on": "2014-11-13T11:48:05.125Z"
- }
+ },
+ "pk": 167,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 168,
  "fields": {
+  "approved_symbol": "BAK1",
   "active": true,
   "updated_on": "2014-11-13T11:48:05.794Z",
-  "approved_symbol": "BAK1",
   "created_on": "2014-11-13T11:48:05.794Z"
- }
+ },
+ "pk": 168,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 169,
  "fields": {
+  "approved_symbol": "TFDP1",
   "active": true,
   "updated_on": "2014-11-13T11:48:06.878Z",
-  "approved_symbol": "TFDP1",
   "created_on": "2014-11-13T11:48:06.878Z"
- }
+ },
+ "pk": 169,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 170,
  "fields": {
+  "approved_symbol": "YWHAB",
   "active": true,
   "updated_on": "2014-11-13T11:48:07.246Z",
-  "approved_symbol": "YWHAB",
   "created_on": "2014-11-13T11:48:07.246Z"
- }
+ },
+ "pk": 170,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 171,
  "fields": {
+  "approved_symbol": "DYNLL1",
   "active": true,
   "updated_on": "2014-11-13T11:48:08.317Z",
-  "approved_symbol": "DYNLL1",
   "created_on": "2014-11-13T11:48:08.316Z"
- }
+ },
+ "pk": 171,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 172,
  "fields": {
+  "approved_symbol": "BMF",
   "active": true,
   "updated_on": "2014-11-13T11:48:08.608Z",
-  "approved_symbol": "BMF",
   "created_on": "2014-11-13T11:48:08.607Z"
- }
+ },
+ "pk": 172,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 173,
  "fields": {
+  "approved_symbol": "PSME3",
   "active": true,
   "updated_on": "2014-11-13T11:51:13.222Z",
-  "approved_symbol": "PSME3",
   "created_on": "2014-11-13T11:51:13.222Z"
- }
+ },
+ "pk": 173,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 174,
  "fields": {
+  "approved_symbol": "PSMD14",
   "active": true,
   "updated_on": "2014-11-13T11:51:13.665Z",
-  "approved_symbol": "PSMD14",
   "created_on": "2014-11-13T11:51:13.664Z"
- }
+ },
+ "pk": 174,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 175,
  "fields": {
+  "approved_symbol": "PSMB11",
   "active": true,
   "updated_on": "2014-11-13T11:51:13.999Z",
-  "approved_symbol": "PSMB11",
   "created_on": "2014-11-13T11:51:13.999Z"
- }
+ },
+ "pk": 175,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 176,
  "fields": {
+  "approved_symbol": "PSMA8",
   "active": true,
   "updated_on": "2014-11-13T11:51:14.368Z",
-  "approved_symbol": "PSMA8",
   "created_on": "2014-11-13T11:51:14.367Z"
- }
+ },
+ "pk": 176,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 177,
  "fields": {
+  "approved_symbol": "DAPK1",
   "active": true,
   "updated_on": "2014-11-13T11:51:14.658Z",
-  "approved_symbol": "DAPK1",
   "created_on": "2014-11-13T11:51:14.658Z"
- }
+ },
+ "pk": 177,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 178,
  "fields": {
+  "approved_symbol": "DAPK3",
   "active": true,
   "updated_on": "2014-11-13T11:51:14.950Z",
-  "approved_symbol": "DAPK3",
   "created_on": "2014-11-13T11:51:14.950Z"
- }
+ },
+ "pk": 178,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 179,
  "fields": {
+  "approved_symbol": "DCC",
   "active": true,
   "updated_on": "2014-11-13T11:51:15.262Z",
-  "approved_symbol": "DCC",
   "created_on": "2014-11-13T11:51:15.262Z"
- }
+ },
+ "pk": 179,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 180,
  "fields": {
+  "approved_symbol": "UNC5B",
   "active": true,
   "updated_on": "2014-11-13T11:51:15.620Z",
-  "approved_symbol": "UNC5B",
   "created_on": "2014-11-13T11:51:15.619Z"
- }
+ },
+ "pk": 180,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 181,
  "fields": {
+  "approved_symbol": "PSME4",
   "active": true,
   "updated_on": "2014-11-13T11:51:15.976Z",
-  "approved_symbol": "PSME4",
   "created_on": "2014-11-13T11:51:15.976Z"
- }
+ },
+ "pk": 181,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 182,
  "fields": {
+  "approved_symbol": "DAPK2",
   "active": true,
   "updated_on": "2014-11-13T11:51:16.334Z",
-  "approved_symbol": "DAPK2",
   "created_on": "2014-11-13T11:51:16.333Z"
- }
+ },
+ "pk": 182,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 183,
  "fields": {
+  "approved_symbol": "APPL1",
   "active": true,
   "updated_on": "2014-11-13T11:51:16.679Z",
-  "approved_symbol": "APPL1",
   "created_on": "2014-11-13T11:51:16.679Z"
- }
+ },
+ "pk": 183,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 184,
  "fields": {
+  "approved_symbol": "PSMA1",
   "active": true,
   "updated_on": "2014-11-13T11:51:17.126Z",
-  "approved_symbol": "PSMA1",
   "created_on": "2014-11-13T11:51:17.126Z"
- }
+ },
+ "pk": 184,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 185,
  "fields": {
+  "approved_symbol": "PSMA2",
   "active": true,
   "updated_on": "2014-11-13T11:51:17.429Z",
-  "approved_symbol": "PSMA2",
   "created_on": "2014-11-13T11:51:17.429Z"
- }
+ },
+ "pk": 185,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 186,
  "fields": {
+  "approved_symbol": "PSMA3",
   "active": true,
   "updated_on": "2014-11-13T11:51:17.730Z",
-  "approved_symbol": "PSMA3",
   "created_on": "2014-11-13T11:51:17.730Z"
- }
+ },
+ "pk": 186,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 187,
  "fields": {
+  "approved_symbol": "PSMA4",
   "active": true,
   "updated_on": "2014-11-13T11:51:18.209Z",
-  "approved_symbol": "PSMA4",
   "created_on": "2014-11-13T11:51:18.209Z"
- }
+ },
+ "pk": 187,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 188,
  "fields": {
+  "approved_symbol": "PSMA5",
   "active": true,
   "updated_on": "2014-11-13T11:51:18.566Z",
-  "approved_symbol": "PSMA5",
   "created_on": "2014-11-13T11:51:18.566Z"
- }
+ },
+ "pk": 188,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 189,
  "fields": {
+  "approved_symbol": "PSMA6",
   "active": true,
   "updated_on": "2014-11-13T11:51:18.957Z",
-  "approved_symbol": "PSMA6",
   "created_on": "2014-11-13T11:51:18.957Z"
- }
+ },
+ "pk": 189,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 190,
  "fields": {
+  "approved_symbol": "PSMA7",
   "active": true,
   "updated_on": "2014-11-13T11:51:19.358Z",
-  "approved_symbol": "PSMA7",
   "created_on": "2014-11-13T11:51:19.358Z"
- }
+ },
+ "pk": 190,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 191,
  "fields": {
+  "approved_symbol": "PSMB1",
   "active": true,
   "updated_on": "2014-11-13T11:51:19.727Z",
-  "approved_symbol": "PSMB1",
   "created_on": "2014-11-13T11:51:19.727Z"
- }
+ },
+ "pk": 191,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 192,
  "fields": {
+  "approved_symbol": "PSMB2",
   "active": true,
   "updated_on": "2014-11-13T11:51:20.072Z",
-  "approved_symbol": "PSMB2",
   "created_on": "2014-11-13T11:51:20.072Z"
- }
+ },
+ "pk": 192,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 193,
  "fields": {
+  "approved_symbol": "PSMB3",
   "active": true,
   "updated_on": "2014-11-13T11:51:20.376Z",
-  "approved_symbol": "PSMB3",
   "created_on": "2014-11-13T11:51:20.376Z"
- }
+ },
+ "pk": 193,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 194,
  "fields": {
+  "approved_symbol": "PSMB4",
   "active": true,
   "updated_on": "2014-11-13T11:51:20.687Z",
-  "approved_symbol": "PSMB4",
   "created_on": "2014-11-13T11:51:20.687Z"
- }
+ },
+ "pk": 194,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 195,
  "fields": {
+  "approved_symbol": "PSMB5",
   "active": true,
   "updated_on": "2014-11-13T11:51:21.045Z",
-  "approved_symbol": "PSMB5",
   "created_on": "2014-11-13T11:51:21.045Z"
- }
+ },
+ "pk": 195,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 196,
  "fields": {
+  "approved_symbol": "PSMB6",
   "active": true,
   "updated_on": "2014-11-13T11:51:21.380Z",
-  "approved_symbol": "PSMB6",
   "created_on": "2014-11-13T11:51:21.380Z"
- }
+ },
+ "pk": 196,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 197,
  "fields": {
+  "approved_symbol": "PSMB7",
   "active": true,
   "updated_on": "2014-11-13T11:51:21.714Z",
-  "approved_symbol": "PSMB7",
   "created_on": "2014-11-13T11:51:21.714Z"
- }
+ },
+ "pk": 197,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 198,
  "fields": {
+  "approved_symbol": "PSMB8",
   "active": true,
   "updated_on": "2014-11-13T11:51:22.050Z",
-  "approved_symbol": "PSMB8",
   "created_on": "2014-11-13T11:51:22.050Z"
- }
+ },
+ "pk": 198,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 199,
  "fields": {
+  "approved_symbol": "PSMB9",
   "active": true,
   "updated_on": "2014-11-13T11:51:22.362Z",
-  "approved_symbol": "PSMB9",
   "created_on": "2014-11-13T11:51:22.362Z"
- }
+ },
+ "pk": 199,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 200,
  "fields": {
+  "approved_symbol": "PSMB10",
   "active": true,
   "updated_on": "2014-11-13T11:51:22.677Z",
-  "approved_symbol": "PSMB10",
   "created_on": "2014-11-13T11:51:22.677Z"
- }
+ },
+ "pk": 200,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 201,
  "fields": {
+  "approved_symbol": "PSMC1",
   "active": true,
   "updated_on": "2014-11-13T11:51:22.989Z",
-  "approved_symbol": "PSMC1",
   "created_on": "2014-11-13T11:51:22.989Z"
- }
+ },
+ "pk": 201,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 202,
  "fields": {
+  "approved_symbol": "PSMC2",
   "active": true,
   "updated_on": "2014-11-13T11:51:23.357Z",
-  "approved_symbol": "PSMC2",
   "created_on": "2014-11-13T11:51:23.357Z"
- }
+ },
+ "pk": 202,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 203,
  "fields": {
+  "approved_symbol": "PSMC3",
   "active": true,
   "updated_on": "2014-11-13T11:51:23.691Z",
-  "approved_symbol": "PSMC3",
   "created_on": "2014-11-13T11:51:23.691Z"
- }
+ },
+ "pk": 203,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 204,
  "fields": {
+  "approved_symbol": "PSMC4",
   "active": true,
   "updated_on": "2014-11-13T11:51:24.027Z",
-  "approved_symbol": "PSMC4",
   "created_on": "2014-11-13T11:51:24.027Z"
- }
+ },
+ "pk": 204,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 205,
  "fields": {
+  "approved_symbol": "PSMC5",
   "active": true,
   "updated_on": "2014-11-13T11:51:24.373Z",
-  "approved_symbol": "PSMC5",
   "created_on": "2014-11-13T11:51:24.372Z"
- }
+ },
+ "pk": 205,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 206,
  "fields": {
+  "approved_symbol": "PSMC6",
   "active": true,
   "updated_on": "2014-11-13T11:51:24.807Z",
-  "approved_symbol": "PSMC6",
   "created_on": "2014-11-13T11:51:24.807Z"
- }
+ },
+ "pk": 206,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 207,
  "fields": {
+  "approved_symbol": "PSMD1",
   "active": true,
   "updated_on": "2014-11-13T11:51:25.187Z",
-  "approved_symbol": "PSMD1",
   "created_on": "2014-11-13T11:51:25.186Z"
- }
+ },
+ "pk": 207,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 208,
  "fields": {
+  "approved_symbol": "PSMD2",
   "active": true,
   "updated_on": "2014-11-13T11:51:25.534Z",
-  "approved_symbol": "PSMD2",
   "created_on": "2014-11-13T11:51:25.534Z"
- }
+ },
+ "pk": 208,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 209,
  "fields": {
+  "approved_symbol": "PSMD3",
   "active": true,
   "updated_on": "2014-11-13T11:51:25.857Z",
-  "approved_symbol": "PSMD3",
   "created_on": "2014-11-13T11:51:25.857Z"
- }
+ },
+ "pk": 209,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 210,
  "fields": {
+  "approved_symbol": "PSMD4",
   "active": true,
   "updated_on": "2014-11-13T11:51:26.193Z",
-  "approved_symbol": "PSMD4",
   "created_on": "2014-11-13T11:51:26.193Z"
- }
+ },
+ "pk": 210,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 211,
  "fields": {
+  "approved_symbol": "PSMD5",
   "active": true,
   "updated_on": "2014-11-13T11:51:26.538Z",
-  "approved_symbol": "PSMD5",
   "created_on": "2014-11-13T11:51:26.538Z"
- }
+ },
+ "pk": 211,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 212,
  "fields": {
+  "approved_symbol": "PSMD7",
   "active": true,
   "updated_on": "2014-11-13T11:51:26.895Z",
-  "approved_symbol": "PSMD7",
   "created_on": "2014-11-13T11:51:26.895Z"
- }
+ },
+ "pk": 212,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 213,
  "fields": {
+  "approved_symbol": "PSMD8",
   "active": true,
   "updated_on": "2014-11-13T11:51:27.241Z",
-  "approved_symbol": "PSMD8",
   "created_on": "2014-11-13T11:51:27.241Z"
- }
+ },
+ "pk": 213,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 214,
  "fields": {
+  "approved_symbol": "PSMD9",
   "active": true,
   "updated_on": "2014-11-13T11:51:27.554Z",
-  "approved_symbol": "PSMD9",
   "created_on": "2014-11-13T11:51:27.554Z"
- }
+ },
+ "pk": 214,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 215,
  "fields": {
+  "approved_symbol": "PSMD10",
   "active": true,
   "updated_on": "2014-11-13T11:51:27.879Z",
-  "approved_symbol": "PSMD10",
   "created_on": "2014-11-13T11:51:27.879Z"
- }
+ },
+ "pk": 215,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 216,
  "fields": {
+  "approved_symbol": "PSMD11",
   "active": true,
   "updated_on": "2014-11-13T11:51:28.169Z",
-  "approved_symbol": "PSMD11",
   "created_on": "2014-11-13T11:51:28.169Z"
- }
+ },
+ "pk": 216,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 217,
  "fields": {
+  "approved_symbol": "PSMD12",
   "active": true,
   "updated_on": "2014-11-13T11:51:28.460Z",
-  "approved_symbol": "PSMD12",
   "created_on": "2014-11-13T11:51:28.460Z"
- }
+ },
+ "pk": 217,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 218,
  "fields": {
+  "approved_symbol": "PSMD13",
   "active": true,
   "updated_on": "2014-11-13T11:51:28.794Z",
-  "approved_symbol": "PSMD13",
   "created_on": "2014-11-13T11:51:28.794Z"
- }
+ },
+ "pk": 218,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 219,
  "fields": {
+  "approved_symbol": "PSME1",
   "active": true,
   "updated_on": "2014-11-13T11:51:29.140Z",
-  "approved_symbol": "PSME1",
   "created_on": "2014-11-13T11:51:29.140Z"
- }
+ },
+ "pk": 219,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 220,
  "fields": {
+  "approved_symbol": "PSME2",
   "active": true,
   "updated_on": "2014-11-13T11:51:29.486Z",
-  "approved_symbol": "PSME2",
   "created_on": "2014-11-13T11:51:29.486Z"
- }
+ },
+ "pk": 220,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 221,
  "fields": {
+  "approved_symbol": "RPS27A",
   "active": true,
   "updated_on": "2014-11-13T11:51:29.876Z",
-  "approved_symbol": "RPS27A",
   "created_on": "2014-11-13T11:51:29.876Z"
- }
+ },
+ "pk": 221,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 222,
  "fields": {
+  "approved_symbol": "UBA52",
   "active": true,
   "updated_on": "2014-11-13T11:51:30.245Z",
-  "approved_symbol": "UBA52",
   "created_on": "2014-11-13T11:51:30.244Z"
- }
+ },
+ "pk": 222,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 223,
  "fields": {
+  "approved_symbol": "UBB",
   "active": true,
   "updated_on": "2014-11-13T11:51:30.637Z",
-  "approved_symbol": "UBB",
   "created_on": "2014-11-13T11:51:30.636Z"
- }
+ },
+ "pk": 223,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 224,
  "fields": {
+  "approved_symbol": "UBC",
   "active": true,
   "updated_on": "2014-11-13T11:51:30.971Z",
-  "approved_symbol": "UBC",
   "created_on": "2014-11-13T11:51:30.971Z"
- }
+ },
+ "pk": 224,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 225,
  "fields": {
+  "approved_symbol": "ARHGAP10",
   "active": true,
   "updated_on": "2014-11-13T11:51:31.351Z",
-  "approved_symbol": "ARHGAP10",
   "created_on": "2014-11-13T11:51:31.351Z"
- }
+ },
+ "pk": 225,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 226,
  "fields": {
+  "approved_symbol": "UNC5A",
   "active": true,
   "updated_on": "2014-11-13T11:51:32.154Z",
-  "approved_symbol": "UNC5A",
   "created_on": "2014-11-13T11:51:32.154Z"
- }
+ },
+ "pk": 226,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 227,
  "fields": {
+  "approved_symbol": "PSMF1",
   "active": true,
   "updated_on": "2014-11-13T11:51:32.578Z",
-  "approved_symbol": "PSMF1",
   "created_on": "2014-11-13T11:51:32.577Z"
- }
+ },
+ "pk": 227,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 228,
  "fields": {
+  "approved_symbol": "MAGED1",
   "active": true,
   "updated_on": "2014-11-13T11:51:33.012Z",
-  "approved_symbol": "MAGED1",
   "created_on": "2014-11-13T11:51:33.012Z"
- }
+ },
+ "pk": 228,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 229,
  "fields": {
+  "approved_symbol": "PSMD6",
   "active": true,
   "updated_on": "2014-11-13T11:51:33.304Z",
-  "approved_symbol": "PSMD6",
   "created_on": "2014-11-13T11:51:33.304Z"
- }
+ },
+ "pk": 229,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 230,
  "fields": {
+  "approved_symbol": "GNB2L1",
   "active": true,
   "updated_on": "2014-11-13T13:54:57.997Z",
-  "approved_symbol": "GNB2L1",
   "created_on": "2014-11-13T13:54:57.997Z"
- }
+ },
+ "pk": 230,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 231,
  "fields": {
+  "approved_symbol": "TAB1",
   "active": true,
   "updated_on": "2014-11-13T13:54:58.449Z",
-  "approved_symbol": "TAB1",
   "created_on": "2014-11-13T13:54:58.449Z"
- }
+ },
+ "pk": 231,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 232,
  "fields": {
+  "approved_symbol": "MAP4K5",
   "active": true,
   "updated_on": "2014-11-13T13:54:58.918Z",
-  "approved_symbol": "MAP4K5",
   "created_on": "2014-11-13T13:54:58.918Z"
- }
+ },
+ "pk": 232,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 233,
  "fields": {
+  "approved_symbol": "RFFL",
   "active": true,
   "updated_on": "2014-11-13T13:54:59.543Z",
-  "approved_symbol": "RFFL",
   "created_on": "2014-11-13T13:54:59.543Z"
- }
+ },
+ "pk": 233,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 234,
  "fields": {
+  "approved_symbol": "CYLD",
   "active": true,
   "updated_on": "2014-11-13T13:54:59.877Z",
-  "approved_symbol": "CYLD",
   "created_on": "2014-11-13T13:54:59.877Z"
- }
+ },
+ "pk": 234,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 235,
  "fields": {
+  "approved_symbol": "NRK",
   "active": true,
   "updated_on": "2014-11-13T13:55:00.190Z",
-  "approved_symbol": "NRK",
   "created_on": "2014-11-13T13:55:00.190Z"
- }
+ },
+ "pk": 235,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 236,
  "fields": {
+  "approved_symbol": "TNIK",
   "active": true,
   "updated_on": "2014-11-13T13:55:00.492Z",
-  "approved_symbol": "TNIK",
   "created_on": "2014-11-13T13:55:00.492Z"
- }
+ },
+ "pk": 236,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 237,
  "fields": {
+  "approved_symbol": "MAP3K7IP2",
   "active": true,
   "updated_on": "2014-11-13T13:55:00.805Z",
-  "approved_symbol": "MAP3K7IP2",
   "created_on": "2014-11-13T13:55:00.805Z"
- }
+ },
+ "pk": 237,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 238,
  "fields": {
+  "approved_symbol": "MAP3K3",
   "active": true,
   "updated_on": "2014-11-13T13:55:01.621Z",
-  "approved_symbol": "MAP3K3",
   "created_on": "2014-11-13T13:55:01.621Z"
- }
+ },
+ "pk": 238,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 239,
  "fields": {
+  "approved_symbol": "MAP3K5",
   "active": true,
   "updated_on": "2014-11-13T13:55:01.912Z",
-  "approved_symbol": "MAP3K5",
   "created_on": "2014-11-13T13:55:01.912Z"
- }
+ },
+ "pk": 239,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 240,
  "fields": {
+  "approved_symbol": "PRKCI",
   "active": true,
   "updated_on": "2014-11-13T13:55:02.203Z",
-  "approved_symbol": "PRKCI",
   "created_on": "2014-11-13T13:55:02.203Z"
- }
+ },
+ "pk": 240,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 241,
  "fields": {
+  "approved_symbol": "PRKCZ",
   "active": true,
   "updated_on": "2014-11-13T13:55:02.515Z",
-  "approved_symbol": "PRKCZ",
   "created_on": "2014-11-13T13:55:02.515Z"
- }
+ },
+ "pk": 241,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 242,
  "fields": {
+  "approved_symbol": "MAP2K3",
   "active": true,
   "updated_on": "2014-11-13T13:55:02.883Z",
-  "approved_symbol": "MAP2K3",
   "created_on": "2014-11-13T13:55:02.883Z"
- }
+ },
+ "pk": 242,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 243,
  "fields": {
+  "approved_symbol": "MAP2K7",
   "active": true,
   "updated_on": "2014-11-13T13:55:03.318Z",
-  "approved_symbol": "MAP2K7",
   "created_on": "2014-11-13T13:55:03.318Z"
- }
+ },
+ "pk": 243,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 244,
  "fields": {
+  "approved_symbol": "MAP4K2",
   "active": true,
   "updated_on": "2014-11-13T13:55:03.742Z",
-  "approved_symbol": "MAP4K2",
   "created_on": "2014-11-13T13:55:03.742Z"
- }
+ },
+ "pk": 244,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 245,
  "fields": {
+  "approved_symbol": "SMPD1",
   "active": true,
   "updated_on": "2014-11-13T13:55:04.145Z",
-  "approved_symbol": "SMPD1",
   "created_on": "2014-11-13T13:55:04.145Z"
- }
+ },
+ "pk": 245,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 246,
  "fields": {
+  "approved_symbol": "SMPD2",
   "active": true,
   "updated_on": "2014-11-13T13:55:04.480Z",
-  "approved_symbol": "SMPD2",
   "created_on": "2014-11-13T13:55:04.480Z"
- }
+ },
+ "pk": 246,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 247,
  "fields": {
+  "approved_symbol": "STAT1",
   "active": true,
   "updated_on": "2014-11-13T13:55:04.914Z",
-  "approved_symbol": "STAT1",
   "created_on": "2014-11-13T13:55:04.914Z"
- }
+ },
+ "pk": 247,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 248,
  "fields": {
+  "approved_symbol": "ADAM17",
   "active": true,
   "updated_on": "2014-11-13T13:55:05.215Z",
-  "approved_symbol": "ADAM17",
   "created_on": "2014-11-13T13:55:05.215Z"
- }
+ },
+ "pk": 248,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 249,
  "fields": {
+  "approved_symbol": "MAP3K7",
   "active": true,
   "updated_on": "2014-11-13T13:55:05.562Z",
-  "approved_symbol": "MAP3K7",
   "created_on": "2014-11-13T13:55:05.562Z"
- }
+ },
+ "pk": 249,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 250,
  "fields": {
+  "approved_symbol": "TNFAIP3",
   "active": true,
   "updated_on": "2014-11-13T13:55:06.064Z",
-  "approved_symbol": "TNFAIP3",
   "created_on": "2014-11-13T13:55:06.064Z"
- }
+ },
+ "pk": 250,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 251,
  "fields": {
+  "approved_symbol": "TNFRSF1B",
   "active": true,
   "updated_on": "2014-11-13T13:55:06.530Z",
-  "approved_symbol": "TNFRSF1B",
   "created_on": "2014-11-13T13:55:06.530Z"
- }
+ },
+ "pk": 251,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 252,
  "fields": {
+  "approved_symbol": "TRAF1",
   "active": true,
   "updated_on": "2014-11-13T13:55:06.893Z",
-  "approved_symbol": "TRAF1",
   "created_on": "2014-11-13T13:55:06.893Z"
- }
+ },
+ "pk": 252,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 253,
  "fields": {
+  "approved_symbol": "TXN",
   "active": true,
   "updated_on": "2014-11-13T13:55:07.361Z",
-  "approved_symbol": "TXN",
   "created_on": "2014-11-13T13:55:07.361Z"
- }
+ },
+ "pk": 253,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 254,
  "fields": {
+  "approved_symbol": "NSMAF",
   "active": true,
   "updated_on": "2014-11-13T13:55:07.897Z",
-  "approved_symbol": "NSMAF",
   "created_on": "2014-11-13T13:55:07.897Z"
- }
+ },
+ "pk": 254,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 255,
  "fields": {
+  "approved_symbol": "MAP4K3",
   "active": true,
   "updated_on": "2014-11-13T13:55:08.188Z",
-  "approved_symbol": "MAP4K3",
   "created_on": "2014-11-13T13:55:08.188Z"
- }
+ },
+ "pk": 255,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 256,
  "fields": {
+  "approved_symbol": "CAV1",
   "active": true,
   "updated_on": "2014-11-13T13:55:08.724Z",
-  "approved_symbol": "CAV1",
   "created_on": "2014-11-13T13:55:08.723Z"
- }
+ },
+ "pk": 256,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 257,
  "fields": {
+  "approved_symbol": "SQSTM1",
   "active": true,
   "updated_on": "2014-11-13T13:55:09.629Z",
-  "approved_symbol": "SQSTM1",
   "created_on": "2014-11-13T13:55:09.628Z"
- }
+ },
+ "pk": 257,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 258,
  "fields": {
+  "approved_symbol": "BAG4",
   "active": true,
   "updated_on": "2014-11-13T13:55:10.041Z",
-  "approved_symbol": "BAG4",
   "created_on": "2014-11-13T13:55:10.041Z"
- }
+ },
+ "pk": 258,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 259,
  "fields": {
+  "approved_symbol": "MAP2K4",
   "active": true,
   "updated_on": "2014-11-13T14:00:41.101Z",
-  "approved_symbol": "MAP2K4",
   "created_on": "2014-11-13T14:00:41.101Z"
- }
+ },
+ "pk": 259,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 260,
  "fields": {
+  "approved_symbol": "TANK",
   "active": true,
   "updated_on": "2014-11-13T15:25:28.361Z",
-  "approved_symbol": "TANK",
   "created_on": "2014-11-13T15:25:28.361Z"
- }
+ },
+ "pk": 260,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 261,
  "fields": {
+  "approved_symbol": "LTA",
   "active": true,
   "updated_on": "2014-11-13T15:25:29.200Z",
-  "approved_symbol": "LTA",
   "created_on": "2014-11-13T15:25:29.200Z"
- }
+ },
+ "pk": 261,
+ "model": "core.gmm"
 },
 {
- "model": "core.gmm",
- "pk": 262,
  "fields": {
+  "approved_symbol": "TRAF3",
   "active": true,
   "updated_on": "2014-11-13T15:25:30.429Z",
-  "approved_symbol": "TRAF3",
   "created_on": "2014-11-13T15:25:30.429Z"
- }
+ },
+ "pk": 262,
+ "model": "core.gmm"
 }
 ]
