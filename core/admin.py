@@ -3,6 +3,7 @@ from . import models
 
 
 class PathWayAdmin(admin.ModelAdmin):
+    list_display = ('name', 'acronym')
     filter_horizontal = ('gmms',)
 
 
