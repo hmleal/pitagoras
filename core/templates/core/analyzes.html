@@ -1,0 +1,26 @@
+{% extends 'core/base.html' %}
+
+{% block 'content' %}
+<h1 class="ls-title-intro ls-ico-users">Análises</h1>
+
+<form action="" method="post">
+    {% csrf_token %}
+    <input type="submit" class="ls-btn-primary" value="Plotar Grafo">
+    <table class="ls-table">
+        <thead>
+            <tr>
+                <th style="width: 10px"><input type="checkbox" class="check-all"></th>
+                <th>PathWay</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for checkbox in form.pathways %}
+            <tr>
+                <td style="width: 10px">{{ checkbox.tag }}</td>
+                <td>{{ checkbox.choice_label }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</form>
+{% endblock %}
