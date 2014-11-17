@@ -17,6 +17,28 @@ Sequência de passos necessários para instalação do projeto.
   $ pip install -r requirementst.txt
   ```
 
+2. Criando o banco de dados e sincroniza as migrations
+
+  ```sh
+  $ ./manage.py syncdb
+  ```
+
+3. Carrega a base de dados para dentro do sistema
+
+  ```sh
+  $ ./manage.py loaddata core/fixtures/initial.json
+  ```
+
+4. Rodar o projeto
+
+  ```sh
+  $ ./manage.py runserver
+  ```
+
+5. Acessar via página web através do seguinte endereço:
+
+  htttp://localhost:8000/
+
 ### Licença
 
 ```
